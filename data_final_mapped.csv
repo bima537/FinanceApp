@@ -1,0 +1,1201 @@
+Date,Title,Amount,Type,Category,Account
+2025-07-01,Parkir,1590728,EXPENSE,tagihan,Gopay
+2025-07-01,Iuran Bulanan,1279308,EXPENSE,tagihan,BCA
+2025-07-01,Lain-lain,69524,EXPENSE,lain-lain,Gopay
+2025-07-01,Streaming,134641,EXPENSE,hiburan,Dompet Tunai
+2025-07-01,Warung Nasi,1747595,EXPENSE,makan & minum,Dompet Tunai
+2025-07-02,Internet,1196709,EXPENSE,tagihan,Gopay
+2025-07-02,Gofood,1203766,EXPENSE,makan & minum,BCA
+2025-07-02,Tissue,1230709,EXPENSE,belanja,BCA
+2025-07-02,Alfamart,1603174,EXPENSE,belanja,Dompet Tunai
+2025-07-02,Bioskop,893056,EXPENSE,hiburan,Dompet Tunai
+2025-07-02,Iuran Bulanan,101165,EXPENSE,tagihan,BCA
+2025-07-03,Streaming,406855,EXPENSE,hiburan,BCA
+2025-07-03,Makan Siang,1730134,EXPENSE,makan & minum,BCA
+2025-07-03,Tissue,27311,EXPENSE,belanja,Dompet Tunai
+2025-07-03,Belanja Mingguan,825171,EXPENSE,belanja,BCA
+2025-07-03,Lain-lain,1462324,EXPENSE,lain-lain,Gopay
+2025-07-04,Parkir,872201,EXPENSE,tagihan,Dompet Tunai
+2025-07-04,Streaming,526533,EXPENSE,hiburan,Gopay
+2025-07-04,Cemilan,134679,EXPENSE,makan & minum,BCA
+2025-07-04,Belanja Mingguan,22499,EXPENSE,belanja,BCA
+2025-07-04,Bonus,22301647,INCOME,gaji,Gopay
+2025-07-04,Biaya Admin,800571,EXPENSE,lain-lain,Dompet Tunai
+2025-07-05,Internet,1277371,EXPENSE,tagihan,Dompet Tunai
+2025-07-05,Jajan Sore,669151,EXPENSE,makan & minum,BCA
+2025-07-05,Top up Game,1173777,EXPENSE,hiburan,Dompet Tunai
+2025-07-05,Biaya Admin,1870661,EXPENSE,lain-lain,Gopay
+2025-07-05,Investasi,13887297,INCOME,goals,Gopay
+2025-07-06,Lain-lain,71718,EXPENSE,lain-lain,Gopay
+2025-07-06,Cemilan,1217307,EXPENSE,makan & minum,Dompet Tunai
+2025-07-06,Cashback,15241112,INCOME,goals,Gopay
+2025-07-06,Gofood,1560068,EXPENSE,makan & minum,Gopay
+2025-07-06,Bunga Bank,251505,INCOME,goals,BCA
+2025-07-06,Biaya Admin,1287813,EXPENSE,lain-lain,Gopay
+2025-07-06,Air,102794,EXPENSE,tagihan,Dompet Tunai
+2025-07-07,BPJS,142123,EXPENSE,tagihan,Dompet Tunai
+2025-07-07,Tissue,705363,EXPENSE,belanja,Gopay
+2025-07-07,Streaming,659045,EXPENSE,hiburan,Gopay
+2025-07-07,Jajan Sore,534478,EXPENSE,makan & minum,BCA
+2025-07-08,Bonus,18219991,INCOME,gaji,Dompet Tunai
+2025-07-08,Lain-lain,1762693,EXPENSE,lain-lain,BCA
+2025-07-08,Belanja Mingguan,1733867,EXPENSE,belanja,Dompet Tunai
+2025-07-08,Pulsa,972748,EXPENSE,tagihan,Gopay
+2025-07-08,Lain-lain,1452919,EXPENSE,lain-lain,BCA
+2025-07-08,Insentif,28872405,INCOME,gaji,Gopay
+2025-07-08,Kopi Pagi,226095,EXPENSE,makan & minum,Gopay
+2025-07-08,Tabungan,30134576,INCOME,goals,Gopay
+2025-07-09,Pulsa,70791,EXPENSE,tagihan,Gopay
+2025-07-09,Biaya Admin,1816782,EXPENSE,lain-lain,Dompet Tunai
+2025-07-09,Main Ke Mall,67453,EXPENSE,hiburan,Dompet Tunai
+2025-07-09,Cashback,967626,INCOME,goals,Dompet Tunai
+2025-07-09,Top up Game,443515,EXPENSE,hiburan,Gopay
+2025-07-09,Indomaret,1408736,EXPENSE,belanja,Dompet Tunai
+2025-07-09,Makan Malam,812551,EXPENSE,makan & minum,BCA
+2025-07-09,Lain-lain,916392,EXPENSE,lain-lain,Gopay
+2025-07-09,Main Ke Mall,624577,EXPENSE,hiburan,Gopay
+2025-07-09,Bioskop,1479685,EXPENSE,hiburan,Gopay
+2025-07-09,Kopi Pagi,1373655,EXPENSE,makan & minum,Dompet Tunai
+2025-07-10,Top up Game,101187,EXPENSE,hiburan,Dompet Tunai
+2025-07-10,Alfamart,714281,EXPENSE,belanja,BCA
+2025-07-10,Makan Siang,1505257,EXPENSE,makan & minum,BCA
+2025-07-10,Biaya Admin,1480878,EXPENSE,lain-lain,BCA
+2025-07-10,Listrik,1486781,EXPENSE,tagihan,Dompet Tunai
+2025-07-10,Makan Siang,240607,EXPENSE,makan & minum,Gopay
+2025-07-11,Kebutuhan Pokok,1309764,EXPENSE,belanja,Gopay
+2025-07-11,Makan Siang,288972,EXPENSE,makan & minum,Gopay
+2025-07-11,Bioskop,1842246,EXPENSE,hiburan,Gopay
+2025-07-11,Cemilan,1787634,EXPENSE,makan & minum,BCA
+2025-07-11,Parkir,1201023,EXPENSE,tagihan,BCA
+2025-07-11,Makan Malam,993247,EXPENSE,makan & minum,BCA
+2025-07-11,Cemilan,3142,EXPENSE,makan & minum,Dompet Tunai
+2025-07-11,Kopi Pagi,1086305,EXPENSE,makan & minum,BCA
+2025-07-11,Jajan Sore,923428,EXPENSE,makan & minum,Gopay
+2025-07-11,Iuran Bulanan,1879988,EXPENSE,tagihan,BCA
+2025-07-12,Main Ke Mall,95289,EXPENSE,hiburan,Dompet Tunai
+2025-07-12,Lain-lain,980556,EXPENSE,lain-lain,Gopay
+2025-07-12,Cemilan,30106,EXPENSE,makan & minum,Gopay
+2025-07-12,Indomaret,1734689,EXPENSE,belanja,Dompet Tunai
+2025-07-13,Lain-lain,1026486,EXPENSE,lain-lain,Gopay
+2025-07-13,Biaya Admin,1727422,EXPENSE,lain-lain,Dompet Tunai
+2025-07-13,Lain-lain,142926,EXPENSE,lain-lain,Gopay
+2025-07-13,Makan Siang,1855696,EXPENSE,makan & minum,Gopay
+2025-07-13,Biaya Admin,1858368,EXPENSE,lain-lain,BCA
+2025-07-14,Internet,33615,EXPENSE,tagihan,BCA
+2025-07-14,Lain-lain,1225381,EXPENSE,lain-lain,BCA
+2025-07-14,Kopi Pagi,1074673,EXPENSE,makan & minum,Dompet Tunai
+2025-07-14,Lain-lain,72913,EXPENSE,lain-lain,BCA
+2025-07-14,Top up Game,1091966,EXPENSE,hiburan,Dompet Tunai
+2025-07-14,Top up Game,1756286,EXPENSE,hiburan,Dompet Tunai
+2025-07-14,Biaya Admin,1581572,EXPENSE,lain-lain,Dompet Tunai
+2025-07-14,Biaya Admin,1494164,EXPENSE,lain-lain,BCA
+2025-07-15,Cemilan,18913,EXPENSE,makan & minum,Dompet Tunai
+2025-07-15,Streaming,732501,EXPENSE,hiburan,Dompet Tunai
+2025-07-15,Streaming,57076,EXPENSE,hiburan,Dompet Tunai
+2025-07-16,Internet,1595478,EXPENSE,tagihan,Dompet Tunai
+2025-07-16,Kebutuhan Pokok,431624,EXPENSE,belanja,BCA
+2025-07-16,Lain-lain,781234,EXPENSE,lain-lain,Gopay
+2025-07-16,Makan Siang,22465,EXPENSE,makan & minum,Dompet Tunai
+2025-07-16,Tabungan,13867977,INCOME,goals,BCA
+2025-07-17,Internet,246925,EXPENSE,tagihan,BCA
+2025-07-17,Lain-lain,1394607,EXPENSE,lain-lain,Gopay
+2025-07-17,Alfamart,1764941,EXPENSE,belanja,Gopay
+2025-07-18,Top up Game,1434737,EXPENSE,hiburan,BCA
+2025-07-18,Indomaret,229674,EXPENSE,belanja,BCA
+2025-07-18,Sabun,617108,EXPENSE,belanja,Dompet Tunai
+2025-07-19,Iuran Bulanan,754259,EXPENSE,tagihan,BCA
+2025-07-19,Lain-lain,1910626,EXPENSE,lain-lain,Dompet Tunai
+2025-07-19,Cemilan,418852,EXPENSE,makan & minum,Gopay
+2025-07-19,Listrik,92610,EXPENSE,tagihan,BCA
+2025-07-19,Jajan Sore,1776026,EXPENSE,makan & minum,BCA
+2025-07-19,Gaji Bulanan,12882896,INCOME,gaji,Gopay
+2025-07-19,Kebutuhan Pokok,1335849,EXPENSE,belanja,Gopay
+2025-07-19,Lain-lain,617327,EXPENSE,lain-lain,Dompet Tunai
+2025-07-19,Gaji Bulanan,12408527,INCOME,gaji,Gopay
+2025-07-19,Bioskop,144217,EXPENSE,hiburan,Gopay
+2025-07-19,Insentif,21873866,INCOME,gaji,Gopay
+2025-07-20,Biaya Admin,1806303,EXPENSE,lain-lain,Gopay
+2025-07-20,Bioskop,688957,EXPENSE,hiburan,Gopay
+2025-07-20,Kebutuhan Pokok,607985,EXPENSE,belanja,BCA
+2025-07-20,Makan Siang,911648,EXPENSE,makan & minum,BCA
+2025-07-20,Bunga Bank,13235374,INCOME,goals,BCA
+2025-07-20,Biaya Admin,41935,EXPENSE,lain-lain,BCA
+2025-07-20,Gofood,70978,EXPENSE,makan & minum,BCA
+2025-07-20,Lain-lain,755983,EXPENSE,lain-lain,BCA
+2025-07-20,Top up Game,806847,EXPENSE,hiburan,Gopay
+2025-07-20,Kopi Pagi,233442,EXPENSE,makan & minum,Gopay
+2025-07-21,Streaming,112887,EXPENSE,hiburan,Dompet Tunai
+2025-07-21,BPJS,1418393,EXPENSE,tagihan,BCA
+2025-07-21,Kebutuhan Pokok,270431,EXPENSE,belanja,Dompet Tunai
+2025-07-21,Jajan Sore,1028489,EXPENSE,makan & minum,Dompet Tunai
+2025-07-21,Kopi Pagi,913468,EXPENSE,makan & minum,BCA
+2025-07-22,Parkir,1755174,EXPENSE,tagihan,BCA
+2025-07-22,Kopi Pagi,274746,EXPENSE,makan & minum,Gopay
+2025-07-22,Lain-lain,921847,EXPENSE,lain-lain,BCA
+2025-07-23,Gofood,1607549,EXPENSE,makan & minum,BCA
+2025-07-23,Sabun,1640148,EXPENSE,belanja,BCA
+2025-07-23,Listrik,1702226,EXPENSE,tagihan,Gopay
+2025-07-23,Gofood,1301141,EXPENSE,makan & minum,Gopay
+2025-07-23,Jajan Sore,1279089,EXPENSE,makan & minum,BCA
+2025-07-23,Streaming,165361,EXPENSE,hiburan,Gopay
+2025-07-23,Makan Malam,729368,EXPENSE,makan & minum,Dompet Tunai
+2025-07-23,Top up Game,180895,EXPENSE,hiburan,BCA
+2025-07-23,Tabungan,4835963,INCOME,goals,BCA
+2025-07-23,Lain-lain,61513,EXPENSE,lain-lain,Gopay
+2025-07-23,Tissue,1905365,EXPENSE,belanja,BCA
+2025-07-23,Lain-lain,142067,EXPENSE,lain-lain,Dompet Tunai
+2025-07-24,Tissue,713251,EXPENSE,belanja,Dompet Tunai
+2025-07-24,Warung Nasi,1207634,EXPENSE,makan & minum,Gopay
+2025-07-24,Listrik,1874702,EXPENSE,tagihan,BCA
+2025-07-24,Kopi Pagi,163782,EXPENSE,makan & minum,BCA
+2025-07-24,Tissue,202279,EXPENSE,belanja,BCA
+2025-07-24,Sabun,1575815,EXPENSE,belanja,Gopay
+2025-07-24,Makan Siang,280091,EXPENSE,makan & minum,Dompet Tunai
+2025-07-24,Main Ke Mall,1741985,EXPENSE,hiburan,Gopay
+2025-07-25,Cemilan,1753828,EXPENSE,makan & minum,Dompet Tunai
+2025-07-25,Indomaret,1614274,EXPENSE,belanja,Gopay
+2025-07-25,Biaya Admin,1349511,EXPENSE,lain-lain,Dompet Tunai
+2025-07-25,Cemilan,1425007,EXPENSE,makan & minum,Gopay
+2025-07-26,Pulsa,763964,EXPENSE,tagihan,BCA
+2025-07-26,Warung Nasi,1224851,EXPENSE,makan & minum,Gopay
+2025-07-26,Lain-lain,532055,EXPENSE,lain-lain,BCA
+2025-07-26,Warung Nasi,1294195,EXPENSE,makan & minum,Gopay
+2025-07-26,Bioskop,477307,EXPENSE,hiburan,BCA
+2025-07-26,Alfamart,825644,EXPENSE,belanja,Gopay
+2025-07-26,Investasi,22389838,INCOME,goals,Gopay
+2025-07-27,Kebutuhan Pokok,1258336,EXPENSE,belanja,BCA
+2025-07-27,Belanja Mingguan,1038919,EXPENSE,belanja,Gopay
+2025-07-27,Lain-lain,61988,EXPENSE,lain-lain,Gopay
+2025-07-27,Jajan Sore,1208553,EXPENSE,makan & minum,Gopay
+2025-07-27,Iuran Bulanan,212205,EXPENSE,tagihan,Dompet Tunai
+2025-07-27,Gaji Bulanan,1151324,INCOME,gaji,Gopay
+2025-07-27,Lain-lain,561207,EXPENSE,lain-lain,Gopay
+2025-07-27,Tabungan,1440977,INCOME,goals,Dompet Tunai
+2025-07-28,Biaya Admin,1398468,EXPENSE,lain-lain,Gopay
+2025-07-28,Makan Malam,909579,EXPENSE,makan & minum,Gopay
+2025-07-28,Makan Siang,75566,EXPENSE,makan & minum,BCA
+2025-07-28,Indomaret,939382,EXPENSE,belanja,Gopay
+2025-07-28,Top up Game,351629,EXPENSE,hiburan,Dompet Tunai
+2025-07-28,Tabungan,1738175,INCOME,goals,BCA
+2025-07-28,Sabun,1128395,EXPENSE,belanja,Gopay
+2025-07-28,Biaya Admin,1168973,EXPENSE,lain-lain,Gopay
+2025-07-29,Jajan Sore,1101128,EXPENSE,makan & minum,Dompet Tunai
+2025-07-29,Lain-lain,1569722,EXPENSE,lain-lain,Dompet Tunai
+2025-07-29,Kebutuhan Pokok,1539434,EXPENSE,belanja,BCA
+2025-07-29,Top up Game,1774639,EXPENSE,hiburan,Dompet Tunai
+2025-07-29,Biaya Admin,1230693,EXPENSE,lain-lain,Gopay
+2025-07-29,Lain-lain,180759,EXPENSE,lain-lain,BCA
+2025-07-29,Alfamart,1893921,EXPENSE,belanja,Dompet Tunai
+2025-07-30,Belanja Mingguan,1498746,EXPENSE,belanja,Gopay
+2025-07-30,Streaming,1829212,EXPENSE,hiburan,Gopay
+2025-07-30,Kopi Pagi,566972,EXPENSE,makan & minum,Gopay
+2025-07-30,Jajan Sore,1195543,EXPENSE,makan & minum,Gopay
+2025-07-31,Listrik,1767971,EXPENSE,tagihan,BCA
+2025-07-31,Makan Malam,910832,EXPENSE,makan & minum,Gopay
+2025-07-31,Main Ke Mall,1428437,EXPENSE,hiburan,Dompet Tunai
+2025-07-31,Gaji Bulanan,1893145,INCOME,gaji,Dompet Tunai
+2025-07-31,Gaji Bulanan,25699729,INCOME,gaji,Dompet Tunai
+2025-07-31,BPJS,85404,EXPENSE,tagihan,Gopay
+2025-07-31,Lain-lain,692934,EXPENSE,lain-lain,Dompet Tunai
+2025-07-31,Biaya Admin,1280147,EXPENSE,lain-lain,Gopay
+2025-07-31,Belanja Mingguan,1619375,EXPENSE,belanja,BCA
+2025-08-01,Belanja Mingguan,1050,EXPENSE,belanja,Gopay
+2025-08-01,Bioskop,1456248,EXPENSE,hiburan,Gopay
+2025-08-01,Cemilan,1835422,EXPENSE,makan & minum,Gopay
+2025-08-01,Alfamart,292925,EXPENSE,belanja,Gopay
+2025-08-01,Top up Game,1257483,EXPENSE,hiburan,Dompet Tunai
+2025-08-01,Cashback,4611413,INCOME,goals,Gopay
+2025-08-01,Biaya Admin,1734264,EXPENSE,lain-lain,BCA
+2025-08-01,BPJS,1338868,EXPENSE,tagihan,Gopay
+2025-08-01,Gaji Bulanan,16910493,INCOME,gaji,Gopay
+2025-08-02,Jajan Sore,1676787,EXPENSE,makan & minum,BCA
+2025-08-02,Pulsa,1729557,EXPENSE,tagihan,BCA
+2025-08-02,Gofood,312183,EXPENSE,makan & minum,Gopay
+2025-08-02,Gaji Bulanan,15053506,INCOME,gaji,Dompet Tunai
+2025-08-02,Alfamart,973821,EXPENSE,belanja,BCA
+2025-08-02,Gofood,846499,EXPENSE,makan & minum,Gopay
+2025-08-02,Parkir,1595043,EXPENSE,tagihan,Dompet Tunai
+2025-08-03,Bioskop,1017685,EXPENSE,hiburan,Gopay
+2025-08-03,Alfamart,220825,EXPENSE,belanja,Dompet Tunai
+2025-08-03,Lain-lain,464773,EXPENSE,lain-lain,Gopay
+2025-08-03,Internet,844467,EXPENSE,tagihan,BCA
+2025-08-03,Lain-lain,490502,EXPENSE,lain-lain,Gopay
+2025-08-03,Alfamart,452227,EXPENSE,belanja,Dompet Tunai
+2025-08-04,Makan Malam,1103525,EXPENSE,makan & minum,Dompet Tunai
+2025-08-04,Internet,1737682,EXPENSE,tagihan,Gopay
+2025-08-04,Main Ke Mall,379741,EXPENSE,hiburan,BCA
+2025-08-04,Main Ke Mall,1022252,EXPENSE,hiburan,Dompet Tunai
+2025-08-05,Parkir,486968,EXPENSE,tagihan,BCA
+2025-08-05,Lain-lain,1621667,EXPENSE,lain-lain,Dompet Tunai
+2025-08-05,Lain-lain,129311,EXPENSE,lain-lain,BCA
+2025-08-05,Bunga Bank,567910,INCOME,goals,BCA
+2025-08-05,Bonus,17212947,INCOME,gaji,Gopay
+2025-08-05,Internet,1113638,EXPENSE,tagihan,Gopay
+2025-08-05,Biaya Admin,66696,EXPENSE,lain-lain,Dompet Tunai
+2025-08-06,Freelance Project,3979651,INCOME,gaji,BCA
+2025-08-06,Top up Game,446551,EXPENSE,hiburan,Gopay
+2025-08-06,Top up Game,195149,EXPENSE,hiburan,BCA
+2025-08-06,Cemilan,702127,EXPENSE,makan & minum,Dompet Tunai
+2025-08-06,Indomaret,1405051,EXPENSE,belanja,BCA
+2025-08-07,Bioskop,788537,EXPENSE,hiburan,BCA
+2025-08-07,Air,341565,EXPENSE,tagihan,Dompet Tunai
+2025-08-07,BPJS,181202,EXPENSE,tagihan,Gopay
+2025-08-07,Tissue,1204271,EXPENSE,belanja,BCA
+2025-08-07,Main Ke Mall,1178671,EXPENSE,hiburan,Gopay
+2025-08-07,Sabun,1560496,EXPENSE,belanja,BCA
+2025-08-07,Iuran Bulanan,73144,EXPENSE,tagihan,Gopay
+2025-08-07,Jajan Sore,402002,EXPENSE,makan & minum,Dompet Tunai
+2025-08-07,Listrik,86850,EXPENSE,tagihan,BCA
+2025-08-08,Pulsa,1122791,EXPENSE,tagihan,Dompet Tunai
+2025-08-08,Iuran Bulanan,695784,EXPENSE,tagihan,Dompet Tunai
+2025-08-08,Kopi Pagi,917642,EXPENSE,makan & minum,Gopay
+2025-08-08,Iuran Bulanan,25877,EXPENSE,tagihan,BCA
+2025-08-08,Iuran Bulanan,760271,EXPENSE,tagihan,BCA
+2025-08-08,Kebutuhan Pokok,1215285,EXPENSE,belanja,Gopay
+2025-08-09,Biaya Admin,956517,EXPENSE,lain-lain,BCA
+2025-08-09,Biaya Admin,264109,EXPENSE,lain-lain,Gopay
+2025-08-09,Lain-lain,881828,EXPENSE,lain-lain,Dompet Tunai
+2025-08-09,Biaya Admin,952022,EXPENSE,lain-lain,BCA
+2025-08-09,Streaming,1069142,EXPENSE,hiburan,Dompet Tunai
+2025-08-09,Tissue,149503,EXPENSE,belanja,Dompet Tunai
+2025-08-09,Listrik,170339,EXPENSE,tagihan,BCA
+2025-08-09,Insentif,7482224,INCOME,gaji,Gopay
+2025-08-10,Sabun,1318223,EXPENSE,belanja,Gopay
+2025-08-10,Iuran Bulanan,575376,EXPENSE,tagihan,Gopay
+2025-08-10,Parkir,1460232,EXPENSE,tagihan,Gopay
+2025-08-10,Warung Nasi,1697288,EXPENSE,makan & minum,Gopay
+2025-08-11,Bioskop,76911,EXPENSE,hiburan,BCA
+2025-08-11,Lain-lain,499095,EXPENSE,lain-lain,BCA
+2025-08-11,Bioskop,1076035,EXPENSE,hiburan,Gopay
+2025-08-11,Pulsa,1497841,EXPENSE,tagihan,Dompet Tunai
+2025-08-12,Tissue,206057,EXPENSE,belanja,BCA
+2025-08-12,Kebutuhan Pokok,1738797,EXPENSE,belanja,Dompet Tunai
+2025-08-12,Main Ke Mall,464997,EXPENSE,hiburan,Dompet Tunai
+2025-08-12,Biaya Admin,8919,EXPENSE,lain-lain,BCA
+2025-08-12,Biaya Admin,1123414,EXPENSE,lain-lain,Dompet Tunai
+2025-08-12,Cemilan,1925655,EXPENSE,makan & minum,Gopay
+2025-08-12,Biaya Admin,1661085,EXPENSE,lain-lain,Dompet Tunai
+2025-08-13,Kebutuhan Pokok,1883199,EXPENSE,belanja,Gopay
+2025-08-13,Air,537659,EXPENSE,tagihan,Dompet Tunai
+2025-08-13,Streaming,1440599,EXPENSE,hiburan,Gopay
+2025-08-13,Makan Siang,464796,EXPENSE,makan & minum,BCA
+2025-08-13,Kebutuhan Pokok,1608427,EXPENSE,belanja,Gopay
+2025-08-13,Lain-lain,1696675,EXPENSE,lain-lain,Gopay
+2025-08-13,Warung Nasi,169669,EXPENSE,makan & minum,BCA
+2025-08-13,Main Ke Mall,207289,EXPENSE,hiburan,Gopay
+2025-08-13,Top up Game,1298433,EXPENSE,hiburan,BCA
+2025-08-14,Pulsa,991327,EXPENSE,tagihan,Gopay
+2025-08-14,Iuran Bulanan,218709,EXPENSE,tagihan,BCA
+2025-08-14,Investasi,13348703,INCOME,goals,BCA
+2025-08-14,Insentif,21660246,INCOME,gaji,Gopay
+2025-08-14,Makan Malam,32471,EXPENSE,makan & minum,BCA
+2025-08-15,Indomaret,708698,EXPENSE,belanja,BCA
+2025-08-15,BPJS,174892,EXPENSE,tagihan,Dompet Tunai
+2025-08-15,Lain-lain,1789871,EXPENSE,lain-lain,Dompet Tunai
+2025-08-15,Kebutuhan Pokok,1629894,EXPENSE,belanja,Gopay
+2025-08-15,Jajan Sore,1688469,EXPENSE,makan & minum,Gopay
+2025-08-15,Gaji Bulanan,23326701,INCOME,gaji,Gopay
+2025-08-15,Main Ke Mall,1076104,EXPENSE,hiburan,Dompet Tunai
+2025-08-15,Investasi,14340542,INCOME,goals,BCA
+2025-08-15,Listrik,859096,EXPENSE,tagihan,Gopay
+2025-08-16,Listrik,142352,EXPENSE,tagihan,Dompet Tunai
+2025-08-16,Biaya Admin,135848,EXPENSE,lain-lain,Dompet Tunai
+2025-08-16,Indomaret,1704285,EXPENSE,belanja,Dompet Tunai
+2025-08-16,Alfamart,1252056,EXPENSE,belanja,Dompet Tunai
+2025-08-17,Parkir,1198936,EXPENSE,tagihan,Dompet Tunai
+2025-08-17,Bonus,4627232,INCOME,gaji,Gopay
+2025-08-17,Freelance Project,2109257,INCOME,gaji,Gopay
+2025-08-17,Top up Game,1584747,EXPENSE,hiburan,BCA
+2025-08-17,Bioskop,1202803,EXPENSE,hiburan,BCA
+2025-08-18,Alfamart,88097,EXPENSE,belanja,Dompet Tunai
+2025-08-18,Cemilan,1039592,EXPENSE,makan & minum,Dompet Tunai
+2025-08-18,Iuran Bulanan,1115335,EXPENSE,tagihan,BCA
+2025-08-19,Biaya Admin,1605665,EXPENSE,lain-lain,Gopay
+2025-08-19,Pulsa,531101,EXPENSE,tagihan,Gopay
+2025-08-19,Makan Malam,951911,EXPENSE,makan & minum,Gopay
+2025-08-19,Top up Game,979779,EXPENSE,hiburan,Gopay
+2025-08-19,Streaming,386709,EXPENSE,hiburan,BCA
+2025-08-19,Parkir,1507363,EXPENSE,tagihan,BCA
+2025-08-19,Bioskop,621875,EXPENSE,hiburan,BCA
+2025-08-19,Gofood,1344629,EXPENSE,makan & minum,BCA
+2025-08-20,Makan Siang,1857325,EXPENSE,makan & minum,BCA
+2025-08-20,Lain-lain,1540597,EXPENSE,lain-lain,Gopay
+2025-08-20,Makan Siang,322853,EXPENSE,makan & minum,Gopay
+2025-08-20,Top up Game,82212,EXPENSE,hiburan,Gopay
+2025-08-20,Bioskop,38491,EXPENSE,hiburan,Gopay
+2025-08-20,Pulsa,366651,EXPENSE,tagihan,Gopay
+2025-08-21,Belanja Mingguan,1594275,EXPENSE,belanja,Dompet Tunai
+2025-08-21,Tissue,30697,EXPENSE,belanja,Dompet Tunai
+2025-08-21,Biaya Admin,1529346,EXPENSE,lain-lain,BCA
+2025-08-21,Kebutuhan Pokok,1108471,EXPENSE,belanja,BCA
+2025-08-21,Makan Siang,1676615,EXPENSE,makan & minum,BCA
+2025-08-21,Biaya Admin,1713023,EXPENSE,lain-lain,BCA
+2025-08-22,Tissue,10665,EXPENSE,belanja,BCA
+2025-08-22,Lain-lain,1301996,EXPENSE,lain-lain,Gopay
+2025-08-22,Indomaret,186354,EXPENSE,belanja,Dompet Tunai
+2025-08-22,Parkir,438098,EXPENSE,tagihan,BCA
+2025-08-22,Streaming,418967,EXPENSE,hiburan,Gopay
+2025-08-22,Alfamart,850348,EXPENSE,belanja,Gopay
+2025-08-23,Tissue,1111333,EXPENSE,belanja,Gopay
+2025-08-23,Parkir,816281,EXPENSE,tagihan,Gopay
+2025-08-23,Top up Game,290522,EXPENSE,hiburan,BCA
+2025-08-23,Cashback,11128152,INCOME,goals,Dompet Tunai
+2025-08-23,Sabun,509628,EXPENSE,belanja,BCA
+2025-08-24,Main Ke Mall,1386142,EXPENSE,hiburan,BCA
+2025-08-24,Gofood,614068,EXPENSE,makan & minum,BCA
+2025-08-24,Gofood,742493,EXPENSE,makan & minum,Gopay
+2025-08-24,Kopi Pagi,890685,EXPENSE,makan & minum,Gopay
+2025-08-25,Biaya Admin,759829,EXPENSE,lain-lain,BCA
+2025-08-25,Belanja Mingguan,723963,EXPENSE,belanja,Dompet Tunai
+2025-08-25,Bioskop,899527,EXPENSE,hiburan,Dompet Tunai
+2025-08-25,Air,184828,EXPENSE,tagihan,BCA
+2025-08-25,Alfamart,737656,EXPENSE,belanja,Dompet Tunai
+2025-08-25,Makan Siang,1390985,EXPENSE,makan & minum,Gopay
+2025-08-25,Parkir,85018,EXPENSE,tagihan,Gopay
+2025-08-25,Main Ke Mall,262047,EXPENSE,hiburan,BCA
+2025-08-25,Investasi,22601729,INCOME,goals,BCA
+2025-08-25,Air,400308,EXPENSE,tagihan,Gopay
+2025-08-25,Bunga Bank,10981307,INCOME,goals,Gopay
+2025-08-25,Lain-lain,846774,EXPENSE,lain-lain,BCA
+2025-08-26,Pulsa,1355814,EXPENSE,tagihan,Dompet Tunai
+2025-08-26,Belanja Mingguan,1106317,EXPENSE,belanja,BCA
+2025-08-26,Kebutuhan Pokok,1748186,EXPENSE,belanja,Gopay
+2025-08-26,Main Ke Mall,1563966,EXPENSE,hiburan,Dompet Tunai
+2025-08-27,Bioskop,1480423,EXPENSE,hiburan,BCA
+2025-08-27,Listrik,1723833,EXPENSE,tagihan,Gopay
+2025-08-27,Lain-lain,849208,EXPENSE,lain-lain,Gopay
+2025-08-27,Iuran Bulanan,1087946,EXPENSE,tagihan,BCA
+2025-08-27,Kopi Pagi,384603,EXPENSE,makan & minum,BCA
+2025-08-27,Top up Game,1066852,EXPENSE,hiburan,Gopay
+2025-08-27,Indomaret,341472,EXPENSE,belanja,BCA
+2025-08-28,Internet,613418,EXPENSE,tagihan,Dompet Tunai
+2025-08-28,Alfamart,858922,EXPENSE,belanja,Gopay
+2025-08-28,Parkir,571872,EXPENSE,tagihan,Gopay
+2025-08-28,Biaya Admin,514027,EXPENSE,lain-lain,Dompet Tunai
+2025-08-28,Pulsa,1912936,EXPENSE,tagihan,Gopay
+2025-08-28,Air,302655,EXPENSE,tagihan,Dompet Tunai
+2025-08-28,Alfamart,1159237,EXPENSE,belanja,BCA
+2025-08-28,Cemilan,1455332,EXPENSE,makan & minum,Gopay
+2025-08-28,Lain-lain,633346,EXPENSE,lain-lain,BCA
+2025-08-28,Cemilan,7431,EXPENSE,makan & minum,BCA
+2025-08-28,Bioskop,1298867,EXPENSE,hiburan,BCA
+2025-08-28,Sabun,1856447,EXPENSE,belanja,Gopay
+2025-08-28,Bunga Bank,2971598,INCOME,goals,BCA
+2025-08-28,Kebutuhan Pokok,926968,EXPENSE,belanja,Dompet Tunai
+2025-08-28,Listrik,567723,EXPENSE,tagihan,BCA
+2025-08-29,Investasi,21518323,INCOME,goals,BCA
+2025-08-29,Gaji Bulanan,19820154,INCOME,gaji,Dompet Tunai
+2025-08-29,Biaya Admin,1769872,EXPENSE,lain-lain,Gopay
+2025-08-29,Bioskop,286703,EXPENSE,hiburan,BCA
+2025-08-29,Kebutuhan Pokok,300847,EXPENSE,belanja,BCA
+2025-08-29,Top up Game,753541,EXPENSE,hiburan,BCA
+2025-08-30,Top up Game,1149742,EXPENSE,hiburan,Gopay
+2025-08-30,Kebutuhan Pokok,1069808,EXPENSE,belanja,Dompet Tunai
+2025-08-30,Parkir,1360849,EXPENSE,tagihan,Gopay
+2025-08-30,Belanja Mingguan,1124157,EXPENSE,belanja,BCA
+2025-08-30,Top up Game,999329,EXPENSE,hiburan,BCA
+2025-08-30,Bunga Bank,22164309,INCOME,goals,Gopay
+2025-08-30,Streaming,1789038,EXPENSE,hiburan,Dompet Tunai
+2025-08-30,Main Ke Mall,1329959,EXPENSE,hiburan,Dompet Tunai
+2025-08-30,Lain-lain,785117,EXPENSE,lain-lain,Gopay
+2025-08-31,Tissue,1779692,EXPENSE,belanja,BCA
+2025-09-01,Alfamart,184681,EXPENSE,belanja,Dompet Tunai
+2025-09-01,Warung Nasi,1535353,EXPENSE,makan & minum,BCA
+2025-09-01,Indomaret,639789,EXPENSE,belanja,Gopay
+2025-09-01,Top up Game,643284,EXPENSE,hiburan,Gopay
+2025-09-01,Makan Siang,608851,EXPENSE,makan & minum,Dompet Tunai
+2025-09-01,Main Ke Mall,165873,EXPENSE,hiburan,BCA
+2025-09-01,Streaming,388943,EXPENSE,hiburan,Dompet Tunai
+2025-09-01,Pulsa,478299,EXPENSE,tagihan,Gopay
+2025-09-01,Makan Malam,688253,EXPENSE,makan & minum,Dompet Tunai
+2025-09-02,Alfamart,78066,EXPENSE,belanja,Gopay
+2025-09-02,Indomaret,1891229,EXPENSE,belanja,Dompet Tunai
+2025-09-02,Main Ke Mall,1718913,EXPENSE,hiburan,BCA
+2025-09-02,Pulsa,536787,EXPENSE,tagihan,Gopay
+2025-09-02,Warung Nasi,1761427,EXPENSE,makan & minum,BCA
+2025-09-02,Lain-lain,1924597,EXPENSE,lain-lain,Gopay
+2025-09-03,Top up Game,1204428,EXPENSE,hiburan,BCA
+2025-09-03,Listrik,1846468,EXPENSE,tagihan,Gopay
+2025-09-03,Lain-lain,572309,EXPENSE,lain-lain,Dompet Tunai
+2025-09-03,Makan Siang,48399,EXPENSE,makan & minum,Gopay
+2025-09-03,Air,1018889,EXPENSE,tagihan,Gopay
+2025-09-03,Investasi,1770005,INCOME,goals,BCA
+2025-09-03,Main Ke Mall,1548229,EXPENSE,hiburan,BCA
+2025-09-03,Bioskop,1219991,EXPENSE,hiburan,Gopay
+2025-09-04,Biaya Admin,1699893,EXPENSE,lain-lain,BCA
+2025-09-04,Sabun,16496,EXPENSE,belanja,Gopay
+2025-09-04,Main Ke Mall,972187,EXPENSE,hiburan,Gopay
+2025-09-05,Lain-lain,1313961,EXPENSE,lain-lain,BCA
+2025-09-05,Bioskop,1862497,EXPENSE,hiburan,Dompet Tunai
+2025-09-05,Tabungan,19456769,INCOME,goals,Gopay
+2025-09-05,Bioskop,879923,EXPENSE,hiburan,Dompet Tunai
+2025-09-05,Cemilan,630674,EXPENSE,makan & minum,BCA
+2025-09-05,Streaming,2066451,EXPENSE,hiburan,Dompet Tunai
+2025-09-05,Parkir,9640,EXPENSE,tagihan,BCA
+2025-09-05,Parkir,174260,EXPENSE,tagihan,BCA
+2025-09-06,Lain-lain,1718378,EXPENSE,lain-lain,Gopay
+2025-09-06,Listrik,1834953,EXPENSE,tagihan,Gopay
+2025-09-06,Bonus,16323492,INCOME,gaji,Dompet Tunai
+2025-09-06,Streaming,1917176,EXPENSE,hiburan,Gopay
+2025-09-06,BPJS,826414,EXPENSE,tagihan,Dompet Tunai
+2025-09-07,Makan Malam,1041889,EXPENSE,makan & minum,Dompet Tunai
+2025-09-07,Air,1551772,EXPENSE,tagihan,Gopay
+2025-09-07,Biaya Admin,1378614,EXPENSE,lain-lain,Gopay
+2025-09-07,Iuran Bulanan,1117278,EXPENSE,tagihan,Dompet Tunai
+2025-09-07,Air,76443,EXPENSE,tagihan,Gopay
+2025-09-07,Iuran Bulanan,1172533,EXPENSE,tagihan,BCA
+2025-09-07,Lain-lain,141393,EXPENSE,lain-lain,Dompet Tunai
+2025-09-07,Streaming,338371,EXPENSE,hiburan,Dompet Tunai
+2025-09-07,Main Ke Mall,55486,EXPENSE,hiburan,BCA
+2025-09-07,Parkir,1463847,EXPENSE,tagihan,Dompet Tunai
+2025-09-08,Tissue,927322,EXPENSE,belanja,Dompet Tunai
+2025-09-08,Kebutuhan Pokok,1520123,EXPENSE,belanja,Dompet Tunai
+2025-09-08,Kopi Pagi,963872,EXPENSE,makan & minum,BCA
+2025-09-08,Kebutuhan Pokok,1585124,EXPENSE,belanja,Gopay
+2025-09-08,Warung Nasi,204673,EXPENSE,makan & minum,Gopay
+2025-09-09,Warung Nasi,1115296,EXPENSE,makan & minum,Gopay
+2025-09-09,Belanja Mingguan,987627,EXPENSE,belanja,Dompet Tunai
+2025-09-10,Makan Siang,125328,EXPENSE,makan & minum,Gopay
+2025-09-10,Lain-lain,507637,EXPENSE,lain-lain,Gopay
+2025-09-10,Indomaret,1526422,EXPENSE,belanja,BCA
+2025-09-10,Lain-lain,1440811,EXPENSE,lain-lain,BCA
+2025-09-10,Listrik,1727454,EXPENSE,tagihan,Gopay
+2025-09-11,Internet,132642,EXPENSE,tagihan,Dompet Tunai
+2025-09-11,Insentif,1286834,INCOME,gaji,BCA
+2025-09-11,Kopi Pagi,1179803,EXPENSE,makan & minum,Gopay
+2025-09-11,Gofood,1501083,EXPENSE,makan & minum,Dompet Tunai
+2025-09-12,Cemilan,77542,EXPENSE,makan & minum,BCA
+2025-09-12,Warung Nasi,959408,EXPENSE,makan & minum,Dompet Tunai
+2025-09-12,Gofood,1277729,EXPENSE,makan & minum,BCA
+2025-09-12,Gaji Bulanan,10728268,INCOME,gaji,Gopay
+2025-09-12,Makan Malam,158794,EXPENSE,makan & minum,BCA
+2025-09-12,Bioskop,83945,EXPENSE,hiburan,Gopay
+2025-09-12,Makan Siang,286717,EXPENSE,makan & minum,Gopay
+2025-09-12,Indomaret,70022,EXPENSE,belanja,Dompet Tunai
+2025-09-12,Investasi,17563868,INCOME,goals,BCA
+2025-09-12,BPJS,989838,EXPENSE,tagihan,Gopay
+2025-09-13,Internet,313438,EXPENSE,tagihan,BCA
+2025-09-13,Lain-lain,1467665,EXPENSE,lain-lain,BCA
+2025-09-13,Sabun,1032121,EXPENSE,belanja,Gopay
+2025-09-13,Kopi Pagi,981196,EXPENSE,makan & minum,BCA
+2025-09-13,Bioskop,148162,EXPENSE,hiburan,Dompet Tunai
+2025-09-13,Indomaret,815359,EXPENSE,belanja,BCA
+2025-09-13,Alfamart,2020279,EXPENSE,belanja,BCA
+2025-09-13,Iuran Bulanan,1828332,EXPENSE,tagihan,Gopay
+2025-09-13,Cemilan,1926044,EXPENSE,makan & minum,Gopay
+2025-09-14,Insentif,15698477,INCOME,gaji,BCA
+2025-09-14,Tabungan,4620253,INCOME,goals,Gopay
+2025-09-14,Investasi,20250796,INCOME,goals,BCA
+2025-09-15,Pulsa,209334,EXPENSE,tagihan,BCA
+2025-09-15,Sabun,309176,EXPENSE,belanja,BCA
+2025-09-15,Top up Game,1403677,EXPENSE,hiburan,Dompet Tunai
+2025-09-15,Air,61404,EXPENSE,tagihan,BCA
+2025-09-15,Lain-lain,1762949,EXPENSE,lain-lain,Dompet Tunai
+2025-09-15,Tissue,411837,EXPENSE,belanja,Dompet Tunai
+2025-09-16,BPJS,410631,EXPENSE,tagihan,Gopay
+2025-09-17,Bunga Bank,5042471,INCOME,goals,Gopay
+2025-09-17,Iuran Bulanan,1750085,EXPENSE,tagihan,Dompet Tunai
+2025-09-17,Internet,801957,EXPENSE,tagihan,Dompet Tunai
+2025-09-17,Freelance Project,1952743,INCOME,gaji,Gopay
+2025-09-17,Kebutuhan Pokok,554434,EXPENSE,belanja,BCA
+2025-09-17,Pulsa,1832097,EXPENSE,tagihan,BCA
+2025-09-17,Parkir,1315987,EXPENSE,tagihan,BCA
+2025-09-17,Tissue,1117924,EXPENSE,belanja,Gopay
+2025-09-17,Gaji Bulanan,4934305,INCOME,gaji,Gopay
+2025-09-18,Biaya Admin,1191786,EXPENSE,lain-lain,BCA
+2025-09-18,Indomaret,2027317,EXPENSE,belanja,Dompet Tunai
+2025-09-18,Investasi,15459115,INCOME,goals,Gopay
+2025-09-18,Kebutuhan Pokok,1464832,EXPENSE,belanja,BCA
+2025-09-18,Indomaret,1406763,EXPENSE,belanja,Gopay
+2025-09-18,Internet,15697,EXPENSE,tagihan,BCA
+2025-09-18,Streaming,60759,EXPENSE,hiburan,Gopay
+2025-09-18,Lain-lain,1171203,EXPENSE,lain-lain,BCA
+2025-09-19,Alfamart,661875,EXPENSE,belanja,Gopay
+2025-09-19,Lain-lain,188847,EXPENSE,lain-lain,BCA
+2025-09-19,Main Ke Mall,1703435,EXPENSE,hiburan,BCA
+2025-09-19,BPJS,155619,EXPENSE,tagihan,Dompet Tunai
+2025-09-19,Lain-lain,1007026,EXPENSE,lain-lain,BCA
+2025-09-19,Jajan Sore,1171146,EXPENSE,makan & minum,BCA
+2025-09-19,Parkir,941188,EXPENSE,tagihan,Dompet Tunai
+2025-09-19,Internet,377335,EXPENSE,tagihan,Dompet Tunai
+2025-09-20,Biaya Admin,410485,EXPENSE,lain-lain,Dompet Tunai
+2025-09-20,Alfamart,1125799,EXPENSE,belanja,Dompet Tunai
+2025-09-20,Iuran Bulanan,1221735,EXPENSE,tagihan,Dompet Tunai
+2025-09-20,Cemilan,96367,EXPENSE,makan & minum,Dompet Tunai
+2025-09-20,Indomaret,1338223,EXPENSE,belanja,Dompet Tunai
+2025-09-20,Lain-lain,1056757,EXPENSE,lain-lain,BCA
+2025-09-20,Gofood,355763,EXPENSE,makan & minum,Dompet Tunai
+2025-09-20,Tissue,316457,EXPENSE,belanja,Gopay
+2025-09-20,Streaming,1897706,EXPENSE,hiburan,Dompet Tunai
+2025-09-21,Biaya Admin,1053411,EXPENSE,lain-lain,BCA
+2025-09-21,Tissue,1272653,EXPENSE,belanja,BCA
+2025-09-21,Streaming,2010403,EXPENSE,hiburan,Dompet Tunai
+2025-09-21,Biaya Admin,673881,EXPENSE,lain-lain,BCA
+2025-09-21,Pulsa,965639,EXPENSE,tagihan,Gopay
+2025-09-21,Main Ke Mall,87313,EXPENSE,hiburan,BCA
+2025-09-22,Cemilan,1189759,EXPENSE,makan & minum,BCA
+2025-09-22,Sabun,780135,EXPENSE,belanja,Gopay
+2025-09-22,Bioskop,1078796,EXPENSE,hiburan,BCA
+2025-09-22,Gofood,1344474,EXPENSE,makan & minum,BCA
+2025-09-22,Bioskop,994629,EXPENSE,hiburan,BCA
+2025-09-22,Streaming,1657415,EXPENSE,hiburan,Dompet Tunai
+2025-09-22,Investasi,21037421,INCOME,goals,Gopay
+2025-09-22,Lain-lain,64198,EXPENSE,lain-lain,BCA
+2025-09-22,BPJS,1595859,EXPENSE,tagihan,BCA
+2025-09-23,Lain-lain,1880639,EXPENSE,lain-lain,Gopay
+2025-09-23,Air,183444,EXPENSE,tagihan,Gopay
+2025-09-23,Biaya Admin,1913043,EXPENSE,lain-lain,Dompet Tunai
+2025-09-23,Lain-lain,96729,EXPENSE,lain-lain,Gopay
+2025-09-23,Gofood,493985,EXPENSE,makan & minum,Dompet Tunai
+2025-09-23,Top up Game,191378,EXPENSE,hiburan,Dompet Tunai
+2025-09-23,Lain-lain,738108,EXPENSE,lain-lain,Dompet Tunai
+2025-09-23,Lain-lain,1924716,EXPENSE,lain-lain,BCA
+2025-09-23,Main Ke Mall,2032708,EXPENSE,hiburan,Dompet Tunai
+2025-09-24,Lain-lain,539813,EXPENSE,lain-lain,Gopay
+2025-09-24,Makan Malam,129578,EXPENSE,makan & minum,BCA
+2025-09-24,Main Ke Mall,358911,EXPENSE,hiburan,Gopay
+2025-09-24,Tabungan,8791421,INCOME,goals,Dompet Tunai
+2025-09-24,Top up Game,66175,EXPENSE,hiburan,Gopay
+2025-09-24,Lain-lain,805076,EXPENSE,lain-lain,Gopay
+2025-09-24,Streaming,763249,EXPENSE,hiburan,Dompet Tunai
+2025-09-25,Biaya Admin,1285508,EXPENSE,lain-lain,BCA
+2025-09-25,Tabungan,1408922,INCOME,goals,Dompet Tunai
+2025-09-25,Streaming,1558927,EXPENSE,hiburan,Gopay
+2025-09-25,Tissue,994953,EXPENSE,belanja,Dompet Tunai
+2025-09-25,Gofood,1965552,EXPENSE,makan & minum,BCA
+2025-09-25,Air,1223409,EXPENSE,tagihan,Gopay
+2025-09-25,Makan Malam,1046009,EXPENSE,makan & minum,BCA
+2025-09-25,Iuran Bulanan,35656,EXPENSE,tagihan,BCA
+2025-09-25,Biaya Admin,1108133,EXPENSE,lain-lain,Gopay
+2025-09-25,Iuran Bulanan,1019798,EXPENSE,tagihan,BCA
+2025-09-25,Bioskop,1289868,EXPENSE,hiburan,Dompet Tunai
+2025-09-25,Tabungan,21819141,INCOME,goals,BCA
+2025-09-26,Tissue,764824,EXPENSE,belanja,BCA
+2025-09-26,Biaya Admin,1529721,EXPENSE,lain-lain,Gopay
+2025-09-26,Jajan Sore,331198,EXPENSE,makan & minum,Dompet Tunai
+2025-09-27,Internet,738268,EXPENSE,tagihan,BCA
+2025-09-27,Main Ke Mall,1605588,EXPENSE,hiburan,Dompet Tunai
+2025-09-27,Sabun,284506,EXPENSE,belanja,Gopay
+2025-09-27,Parkir,593783,EXPENSE,tagihan,Dompet Tunai
+2025-09-27,Gofood,1094227,EXPENSE,makan & minum,BCA
+2025-09-27,Biaya Admin,1702732,EXPENSE,lain-lain,BCA
+2025-09-27,Biaya Admin,1042314,EXPENSE,lain-lain,Gopay
+2025-09-27,Biaya Admin,239463,EXPENSE,lain-lain,BCA
+2025-09-28,Lain-lain,2062904,EXPENSE,lain-lain,BCA
+2025-09-28,Cashback,6539763,INCOME,goals,Dompet Tunai
+2025-09-28,Jajan Sore,1527426,EXPENSE,makan & minum,Dompet Tunai
+2025-09-28,Biaya Admin,1653916,EXPENSE,lain-lain,BCA
+2025-09-28,Streaming,659649,EXPENSE,hiburan,BCA
+2025-09-29,Biaya Admin,1988839,EXPENSE,lain-lain,BCA
+2025-09-29,Tissue,1294091,EXPENSE,belanja,Dompet Tunai
+2025-09-29,Jajan Sore,844392,EXPENSE,makan & minum,Dompet Tunai
+2025-09-29,Top up Game,306638,EXPENSE,hiburan,Gopay
+2025-09-29,Biaya Admin,2030548,EXPENSE,lain-lain,Gopay
+2025-09-29,Lain-lain,406356,EXPENSE,lain-lain,Dompet Tunai
+2025-09-29,Bonus,1276478,INCOME,gaji,Dompet Tunai
+2025-09-29,Biaya Admin,418596,EXPENSE,lain-lain,Gopay
+2025-09-29,Belanja Mingguan,1062526,EXPENSE,belanja,BCA
+2025-09-30,Tabungan,13455467,INCOME,goals,BCA
+2025-09-30,Iuran Bulanan,422657,EXPENSE,tagihan,Dompet Tunai
+2025-09-30,Lain-lain,178104,EXPENSE,lain-lain,Dompet Tunai
+2025-09-30,Biaya Admin,77566,EXPENSE,lain-lain,Dompet Tunai
+2025-10-01,Pulsa,843295,EXPENSE,tagihan,BCA
+2025-10-01,Pulsa,1145756,EXPENSE,tagihan,BCA
+2025-10-01,Bioskop,966051,EXPENSE,hiburan,BCA
+2025-10-01,Pulsa,139712,EXPENSE,tagihan,Dompet Tunai
+2025-10-02,Makan Siang,41792,EXPENSE,makan & minum,Gopay
+2025-10-02,Gofood,107602,EXPENSE,makan & minum,BCA
+2025-10-02,Biaya Admin,1132693,EXPENSE,lain-lain,Dompet Tunai
+2025-10-02,BPJS,756876,EXPENSE,tagihan,BCA
+2025-10-02,Kebutuhan Pokok,89157,EXPENSE,belanja,Dompet Tunai
+2025-10-03,Top up Game,1322141,EXPENSE,hiburan,Dompet Tunai
+2025-10-03,Freelance Project,4901744,INCOME,gaji,BCA
+2025-10-03,Makan Malam,188821,EXPENSE,makan & minum,Dompet Tunai
+2025-10-04,Listrik,1369401,EXPENSE,tagihan,Gopay
+2025-10-04,Warung Nasi,29759,EXPENSE,makan & minum,Dompet Tunai
+2025-10-04,Kebutuhan Pokok,755646,EXPENSE,belanja,Dompet Tunai
+2025-10-04,Jajan Sore,1245412,EXPENSE,makan & minum,Dompet Tunai
+2025-10-04,Biaya Admin,881534,EXPENSE,lain-lain,Dompet Tunai
+2025-10-05,Biaya Admin,1278862,EXPENSE,lain-lain,Dompet Tunai
+2025-10-05,Biaya Admin,948863,EXPENSE,lain-lain,BCA
+2025-10-05,Kopi Pagi,1276979,EXPENSE,makan & minum,BCA
+2025-10-05,Kopi Pagi,644844,EXPENSE,makan & minum,BCA
+2025-10-05,Cashback,8878074,INCOME,goals,BCA
+2025-10-05,Top up Game,557063,EXPENSE,hiburan,Gopay
+2025-10-06,Lain-lain,773078,EXPENSE,lain-lain,Dompet Tunai
+2025-10-06,Bioskop,202235,EXPENSE,hiburan,Dompet Tunai
+2025-10-06,Air,1331849,EXPENSE,tagihan,Dompet Tunai
+2025-10-06,Main Ke Mall,1047246,EXPENSE,hiburan,Gopay
+2025-10-06,Alfamart,301543,EXPENSE,belanja,Gopay
+2025-10-06,Kebutuhan Pokok,76598,EXPENSE,belanja,Dompet Tunai
+2025-10-06,Top up Game,494057,EXPENSE,hiburan,Dompet Tunai
+2025-10-07,Indomaret,43953,EXPENSE,belanja,BCA
+2025-10-07,Warung Nasi,184137,EXPENSE,makan & minum,Dompet Tunai
+2025-10-07,Biaya Admin,310165,EXPENSE,lain-lain,Dompet Tunai
+2025-10-08,Cemilan,1123076,EXPENSE,makan & minum,BCA
+2025-10-08,Sabun,266366,EXPENSE,belanja,Dompet Tunai
+2025-10-08,Lain-lain,1281179,EXPENSE,lain-lain,Gopay
+2025-10-08,Freelance Project,16166772,INCOME,gaji,Gopay
+2025-10-08,Bioskop,29083,EXPENSE,hiburan,BCA
+2025-10-08,Top up Game,10352,EXPENSE,hiburan,BCA
+2025-10-09,Lain-lain,73535,EXPENSE,lain-lain,BCA
+2025-10-09,Biaya Admin,206923,EXPENSE,lain-lain,Dompet Tunai
+2025-10-09,BPJS,869543,EXPENSE,tagihan,Gopay
+2025-10-09,Biaya Admin,549083,EXPENSE,lain-lain,Gopay
+2025-10-09,Internet,248716,EXPENSE,tagihan,Gopay
+2025-10-10,Main Ke Mall,832987,EXPENSE,hiburan,Gopay
+2025-10-10,Cemilan,1322396,EXPENSE,makan & minum,BCA
+2025-10-10,Kebutuhan Pokok,126406,EXPENSE,belanja,Gopay
+2025-10-10,Warung Nasi,417052,EXPENSE,makan & minum,BCA
+2025-10-11,Iuran Bulanan,824655,EXPENSE,tagihan,Dompet Tunai
+2025-10-11,Biaya Admin,30841,EXPENSE,lain-lain,BCA
+2025-10-11,Biaya Admin,541971,EXPENSE,lain-lain,Gopay
+2025-10-11,Biaya Admin,24520,EXPENSE,lain-lain,BCA
+2025-10-11,Top up Game,744705,EXPENSE,hiburan,BCA
+2025-10-11,Pulsa,927919,EXPENSE,tagihan,BCA
+2025-10-11,Pulsa,1095508,EXPENSE,tagihan,Dompet Tunai
+2025-10-11,Pulsa,881476,EXPENSE,tagihan,Dompet Tunai
+2025-10-12,Tissue,1311878,EXPENSE,belanja,BCA
+2025-10-12,Tissue,737145,EXPENSE,belanja,Dompet Tunai
+2025-10-12,Kebutuhan Pokok,822561,EXPENSE,belanja,Dompet Tunai
+2025-10-12,Warung Nasi,322942,EXPENSE,makan & minum,Gopay
+2025-10-12,Lain-lain,553392,EXPENSE,lain-lain,BCA
+2025-10-12,Kopi Pagi,139960,EXPENSE,makan & minum,Gopay
+2025-10-12,Tabungan,6943444,INCOME,goals,BCA
+2025-10-13,Makan Siang,1203141,EXPENSE,makan & minum,Gopay
+2025-10-13,Main Ke Mall,608872,EXPENSE,hiburan,Gopay
+2025-10-13,Biaya Admin,613723,EXPENSE,lain-lain,Gopay
+2025-10-13,Biaya Admin,987497,EXPENSE,lain-lain,Gopay
+2025-10-13,Top up Game,677912,EXPENSE,hiburan,Gopay
+2025-10-14,Kebutuhan Pokok,1301336,EXPENSE,belanja,BCA
+2025-10-14,Listrik,89178,EXPENSE,tagihan,Gopay
+2025-10-14,Alfamart,389883,EXPENSE,belanja,Gopay
+2025-10-14,Freelance Project,14484599,INCOME,gaji,Dompet Tunai
+2025-10-14,Sabun,858927,EXPENSE,belanja,BCA
+2025-10-14,Top up Game,834641,EXPENSE,hiburan,Gopay
+2025-10-14,Air,603458,EXPENSE,tagihan,Dompet Tunai
+2025-10-15,Cemilan,230531,EXPENSE,makan & minum,Dompet Tunai
+2025-10-15,Jajan Sore,1051799,EXPENSE,makan & minum,BCA
+2025-10-15,Tabungan,11474605,INCOME,goals,Dompet Tunai
+2025-10-15,Parkir,233796,EXPENSE,tagihan,BCA
+2025-10-16,Biaya Admin,459223,EXPENSE,lain-lain,Dompet Tunai
+2025-10-16,Biaya Admin,1036856,EXPENSE,lain-lain,BCA
+2025-10-16,Kopi Pagi,697016,EXPENSE,makan & minum,Dompet Tunai
+2025-10-16,Lain-lain,1181032,EXPENSE,lain-lain,Gopay
+2025-10-16,Lain-lain,761499,EXPENSE,lain-lain,Dompet Tunai
+2025-10-16,Biaya Admin,1091641,EXPENSE,lain-lain,Dompet Tunai
+2025-10-16,Kopi Pagi,66721,EXPENSE,makan & minum,Dompet Tunai
+2025-10-16,Biaya Admin,1173011,EXPENSE,lain-lain,Gopay
+2025-10-16,Cashback,8663925,INCOME,goals,BCA
+2025-10-16,Biaya Admin,1252615,EXPENSE,lain-lain,Gopay
+2025-10-17,Gaji Bulanan,4415169,INCOME,gaji,Dompet Tunai
+2025-10-17,Top up Game,906444,EXPENSE,hiburan,BCA
+2025-10-17,Pulsa,600582,EXPENSE,tagihan,Gopay
+2025-10-17,Insentif,6707272,INCOME,gaji,BCA
+2025-10-17,Bioskop,794029,EXPENSE,hiburan,BCA
+2025-10-17,Biaya Admin,240367,EXPENSE,lain-lain,Dompet Tunai
+2025-10-17,Indomaret,366252,EXPENSE,belanja,Dompet Tunai
+2025-10-17,Lain-lain,32639,EXPENSE,lain-lain,Gopay
+2025-10-17,Biaya Admin,689357,EXPENSE,lain-lain,BCA
+2025-10-17,Top up Game,28053,EXPENSE,hiburan,Gopay
+2025-10-17,Freelance Project,14740292,INCOME,gaji,Dompet Tunai
+2025-10-17,Parkir,544068,EXPENSE,tagihan,Gopay
+2025-10-17,Belanja Mingguan,15342,EXPENSE,belanja,BCA
+2025-10-18,Lain-lain,351672,EXPENSE,lain-lain,Gopay
+2025-10-18,Bunga Bank,4072824,INCOME,goals,Gopay
+2025-10-18,Kopi Pagi,202641,EXPENSE,makan & minum,BCA
+2025-10-18,Streaming,1243338,EXPENSE,hiburan,Gopay
+2025-10-18,Lain-lain,967256,EXPENSE,lain-lain,Dompet Tunai
+2025-10-18,Makan Malam,1295619,EXPENSE,makan & minum,BCA
+2025-10-18,Cashback,9448378,INCOME,goals,BCA
+2025-10-18,Streaming,754508,EXPENSE,hiburan,BCA
+2025-10-18,Internet,626068,EXPENSE,tagihan,Dompet Tunai
+2025-10-18,Lain-lain,1368158,EXPENSE,lain-lain,Dompet Tunai
+2025-10-18,BPJS,682061,EXPENSE,tagihan,Gopay
+2025-10-19,Iuran Bulanan,693169,EXPENSE,tagihan,BCA
+2025-10-19,Warung Nasi,527755,EXPENSE,makan & minum,Dompet Tunai
+2025-10-19,Belanja Mingguan,869573,EXPENSE,belanja,BCA
+2025-10-19,Pulsa,382697,EXPENSE,tagihan,BCA
+2025-10-19,Lain-lain,508133,EXPENSE,lain-lain,Dompet Tunai
+2025-10-19,Biaya Admin,169222,EXPENSE,lain-lain,BCA
+2025-10-19,Biaya Admin,591728,EXPENSE,lain-lain,Gopay
+2025-10-19,Listrik,1332479,EXPENSE,tagihan,Dompet Tunai
+2025-10-19,Pulsa,1059474,EXPENSE,tagihan,Gopay
+2025-10-20,Kopi Pagi,448636,EXPENSE,makan & minum,Gopay
+2025-10-20,Makan Siang,113743,EXPENSE,makan & minum,Dompet Tunai
+2025-10-20,Pulsa,719617,EXPENSE,tagihan,Dompet Tunai
+2025-10-20,Alfamart,261977,EXPENSE,belanja,Gopay
+2025-10-21,Bioskop,237047,EXPENSE,hiburan,Dompet Tunai
+2025-10-21,Warung Nasi,526686,EXPENSE,makan & minum,Gopay
+2025-10-21,Streaming,309302,EXPENSE,hiburan,Gopay
+2025-10-21,Bioskop,1368727,EXPENSE,hiburan,Dompet Tunai
+2025-10-22,Parkir,1238513,EXPENSE,tagihan,Gopay
+2025-10-22,Warung Nasi,31888,EXPENSE,makan & minum,Gopay
+2025-10-22,Belanja Mingguan,747071,EXPENSE,belanja,Dompet Tunai
+2025-10-22,Insentif,14170085,INCOME,gaji,BCA
+2025-10-22,Cemilan,800519,EXPENSE,makan & minum,Dompet Tunai
+2025-10-22,Streaming,719671,EXPENSE,hiburan,Gopay
+2025-10-22,Jajan Sore,908463,EXPENSE,makan & minum,Gopay
+2025-10-22,Biaya Admin,582885,EXPENSE,lain-lain,Dompet Tunai
+2025-10-22,Indomaret,280578,EXPENSE,belanja,Dompet Tunai
+2025-10-22,Listrik,111768,EXPENSE,tagihan,Dompet Tunai
+2025-10-23,Belanja Mingguan,400539,EXPENSE,belanja,BCA
+2025-10-23,Bunga Bank,10511595,INCOME,goals,Dompet Tunai
+2025-10-23,Jajan Sore,501424,EXPENSE,makan & minum,BCA
+2025-10-23,Biaya Admin,922797,EXPENSE,lain-lain,Dompet Tunai
+2025-10-23,Warung Nasi,1176635,EXPENSE,makan & minum,BCA
+2025-10-23,Air,1225373,EXPENSE,tagihan,Gopay
+2025-10-23,Cashback,14534074,INCOME,goals,Dompet Tunai
+2025-10-23,Bioskop,80981,EXPENSE,hiburan,Dompet Tunai
+2025-10-24,Tissue,123589,EXPENSE,belanja,Dompet Tunai
+2025-10-24,Kopi Pagi,1266123,EXPENSE,makan & minum,Dompet Tunai
+2025-10-24,Main Ke Mall,33243,EXPENSE,hiburan,Gopay
+2025-10-24,Gofood,448356,EXPENSE,makan & minum,Gopay
+2025-10-25,Biaya Admin,398838,EXPENSE,lain-lain,Dompet Tunai
+2025-10-25,Pulsa,16300,EXPENSE,tagihan,BCA
+2025-10-25,Jajan Sore,938816,EXPENSE,makan & minum,Dompet Tunai
+2025-10-25,Main Ke Mall,1111705,EXPENSE,hiburan,Gopay
+2025-10-25,Tissue,378112,EXPENSE,belanja,Gopay
+2025-10-25,Kopi Pagi,1165707,EXPENSE,makan & minum,BCA
+2025-10-25,Biaya Admin,1303623,EXPENSE,lain-lain,Dompet Tunai
+2025-10-26,Lain-lain,807958,EXPENSE,lain-lain,BCA
+2025-10-26,Makan Siang,308508,EXPENSE,makan & minum,Dompet Tunai
+2025-10-26,Parkir,998321,EXPENSE,tagihan,Gopay
+2025-10-26,Belanja Mingguan,1090248,EXPENSE,belanja,Dompet Tunai
+2025-10-26,Gofood,55024,EXPENSE,makan & minum,Gopay
+2025-10-26,Internet,451042,EXPENSE,tagihan,BCA
+2025-10-26,Alfamart,87002,EXPENSE,belanja,BCA
+2025-10-26,Makan Siang,1248618,EXPENSE,makan & minum,BCA
+2025-10-26,Biaya Admin,120850,EXPENSE,lain-lain,BCA
+2025-10-26,Kopi Pagi,1333433,EXPENSE,makan & minum,Dompet Tunai
+2025-10-26,Kebutuhan Pokok,740492,EXPENSE,belanja,Dompet Tunai
+2025-10-27,Biaya Admin,580991,EXPENSE,lain-lain,BCA
+2025-10-27,Bioskop,1245261,EXPENSE,hiburan,Dompet Tunai
+2025-10-27,Cashback,4551342,INCOME,goals,BCA
+2025-10-27,Iuran Bulanan,842491,EXPENSE,tagihan,BCA
+2025-10-27,Investasi,13120811,INCOME,goals,BCA
+2025-10-27,Kebutuhan Pokok,458378,EXPENSE,belanja,Dompet Tunai
+2025-10-27,Parkir,563691,EXPENSE,tagihan,BCA
+2025-10-28,Biaya Admin,270771,EXPENSE,lain-lain,Dompet Tunai
+2025-10-29,Warung Nasi,1300329,EXPENSE,makan & minum,Dompet Tunai
+2025-10-29,Iuran Bulanan,413389,EXPENSE,tagihan,Dompet Tunai
+2025-10-29,Bioskop,1387143,EXPENSE,hiburan,BCA
+2025-10-29,Tissue,588666,EXPENSE,belanja,Gopay
+2025-10-29,Makan Siang,82554,EXPENSE,makan & minum,Dompet Tunai
+2025-10-29,Iuran Bulanan,1300709,EXPENSE,tagihan,Dompet Tunai
+2025-10-29,Warung Nasi,1299949,EXPENSE,makan & minum,Gopay
+2025-10-29,Bunga Bank,17273125,INCOME,goals,Gopay
+2025-10-29,Indomaret,1374679,EXPENSE,belanja,Gopay
+2025-10-30,Kebutuhan Pokok,16631,EXPENSE,belanja,Gopay
+2025-10-30,Lain-lain,81184,EXPENSE,lain-lain,Dompet Tunai
+2025-10-30,Makan Malam,830851,EXPENSE,makan & minum,Gopay
+2025-10-30,Cashback,12626908,INCOME,goals,Gopay
+2025-10-30,Belanja Mingguan,528783,EXPENSE,belanja,Dompet Tunai
+2025-10-31,Tabungan,3726962,INCOME,goals,Gopay
+2025-10-31,Gofood,202982,EXPENSE,makan & minum,Gopay
+2025-10-31,Main Ke Mall,155166,EXPENSE,hiburan,Gopay
+2025-10-31,Jajan Sore,503366,EXPENSE,makan & minum,Gopay
+2025-10-31,Jajan Sore,629323,EXPENSE,makan & minum,Dompet Tunai
+2025-10-31,Main Ke Mall,350285,EXPENSE,hiburan,Gopay
+2025-10-31,Top up Game,834939,EXPENSE,hiburan,Gopay
+2025-10-31,Makan Malam,1197923,EXPENSE,makan & minum,BCA
+2025-11-01,Bioskop,800653,EXPENSE,hiburan,BCA
+2025-11-01,Tissue,233419,EXPENSE,belanja,Gopay
+2025-11-01,Kebutuhan Pokok,603454,EXPENSE,belanja,Gopay
+2025-11-01,Listrik,127254,EXPENSE,tagihan,BCA
+2025-11-01,Internet,1161213,EXPENSE,tagihan,BCA
+2025-11-01,Jajan Sore,1280184,EXPENSE,makan & minum,Gopay
+2025-11-01,Gofood,779125,EXPENSE,makan & minum,Gopay
+2025-11-01,Parkir,48331,EXPENSE,tagihan,BCA
+2025-11-01,Biaya Admin,939836,EXPENSE,lain-lain,BCA
+2025-11-01,Makan Malam,1248581,EXPENSE,makan & minum,Dompet Tunai
+2025-11-02,Lain-lain,991652,EXPENSE,lain-lain,Gopay
+2025-11-02,Tissue,988529,EXPENSE,belanja,Dompet Tunai
+2025-11-02,Air,941032,EXPENSE,tagihan,Gopay
+2025-11-02,Biaya Admin,1337581,EXPENSE,lain-lain,BCA
+2025-11-03,Biaya Admin,1035098,EXPENSE,lain-lain,BCA
+2025-11-03,Top up Game,269001,EXPENSE,hiburan,BCA
+2025-11-03,Gofood,1057117,EXPENSE,makan & minum,Gopay
+2025-11-03,Lain-lain,1212743,EXPENSE,lain-lain,Dompet Tunai
+2025-11-03,Parkir,357016,EXPENSE,tagihan,Dompet Tunai
+2025-11-03,Lain-lain,205923,EXPENSE,lain-lain,Dompet Tunai
+2025-11-03,Makan Siang,109334,EXPENSE,makan & minum,Gopay
+2025-11-03,Kopi Pagi,1190731,EXPENSE,makan & minum,Gopay
+2025-11-04,Streaming,1219625,EXPENSE,hiburan,Gopay
+2025-11-04,Gofood,1159557,EXPENSE,makan & minum,Gopay
+2025-11-04,Makan Siang,12996,EXPENSE,makan & minum,Gopay
+2025-11-04,Listrik,220537,EXPENSE,tagihan,Gopay
+2025-11-04,Bunga Bank,8450761,INCOME,goals,Dompet Tunai
+2025-11-04,Air,113626,EXPENSE,tagihan,Dompet Tunai
+2025-11-04,Sabun,219332,EXPENSE,belanja,Dompet Tunai
+2025-11-04,Gofood,669385,EXPENSE,makan & minum,Dompet Tunai
+2025-11-05,Sabun,5161,EXPENSE,belanja,BCA
+2025-11-05,Streaming,1235673,EXPENSE,hiburan,Dompet Tunai
+2025-11-05,Sabun,278545,EXPENSE,belanja,BCA
+2025-11-05,Warung Nasi,996549,EXPENSE,makan & minum,BCA
+2025-11-05,Air,62775,EXPENSE,tagihan,Dompet Tunai
+2025-11-05,Lain-lain,86496,EXPENSE,lain-lain,Gopay
+2025-11-05,Pulsa,1274577,EXPENSE,tagihan,BCA
+2025-11-05,Makan Siang,985931,EXPENSE,makan & minum,Dompet Tunai
+2025-11-05,Pulsa,1177943,EXPENSE,tagihan,BCA
+2025-11-05,Parkir,917178,EXPENSE,tagihan,Dompet Tunai
+2025-11-06,Makan Malam,14075,EXPENSE,makan & minum,BCA
+2025-11-06,Bioskop,505613,EXPENSE,hiburan,Dompet Tunai
+2025-11-06,Top up Game,115818,EXPENSE,hiburan,BCA
+2025-11-06,Warung Nasi,638696,EXPENSE,makan & minum,Dompet Tunai
+2025-11-06,Makan Malam,258242,EXPENSE,makan & minum,Dompet Tunai
+2025-11-07,Belanja Mingguan,105374,EXPENSE,belanja,Gopay
+2025-11-07,Indomaret,621132,EXPENSE,belanja,Dompet Tunai
+2025-11-07,Lain-lain,1046793,EXPENSE,lain-lain,Dompet Tunai
+2025-11-07,Air,1265748,EXPENSE,tagihan,BCA
+2025-11-07,Pulsa,313462,EXPENSE,tagihan,Gopay
+2025-11-08,Pulsa,497727,EXPENSE,tagihan,Dompet Tunai
+2025-11-08,Alfamart,771556,EXPENSE,belanja,Dompet Tunai
+2025-11-08,Jajan Sore,876522,EXPENSE,makan & minum,Gopay
+2025-11-08,Biaya Admin,178193,EXPENSE,lain-lain,BCA
+2025-11-08,Cashback,16577096,INCOME,goals,BCA
+2025-11-08,Biaya Admin,596027,EXPENSE,lain-lain,Dompet Tunai
+2025-11-08,Streaming,1233923,EXPENSE,hiburan,BCA
+2025-11-08,Lain-lain,920053,EXPENSE,lain-lain,BCA
+2025-11-09,Top up Game,389415,EXPENSE,hiburan,Dompet Tunai
+2025-11-09,Biaya Admin,405624,EXPENSE,lain-lain,Gopay
+2025-11-09,Streaming,254833,EXPENSE,hiburan,Gopay
+2025-11-09,Biaya Admin,1013111,EXPENSE,lain-lain,Gopay
+2025-11-09,Tabungan,17674344,INCOME,goals,BCA
+2025-11-09,Pulsa,449801,EXPENSE,tagihan,Dompet Tunai
+2025-11-10,Alfamart,528136,EXPENSE,belanja,BCA
+2025-11-10,Cashback,755748,INCOME,goals,Gopay
+2025-11-10,Alfamart,644498,EXPENSE,belanja,Gopay
+2025-11-10,Bioskop,717376,EXPENSE,hiburan,Dompet Tunai
+2025-11-10,Main Ke Mall,103166,EXPENSE,hiburan,Gopay
+2025-11-11,Iuran Bulanan,710406,EXPENSE,tagihan,BCA
+2025-11-11,Jajan Sore,505826,EXPENSE,makan & minum,BCA
+2025-11-11,Freelance Project,6976592,INCOME,gaji,Dompet Tunai
+2025-11-12,Main Ke Mall,111428,EXPENSE,hiburan,BCA
+2025-11-12,Sabun,500505,EXPENSE,belanja,BCA
+2025-11-12,Gofood,629547,EXPENSE,makan & minum,Dompet Tunai
+2025-11-12,Indomaret,1176279,EXPENSE,belanja,BCA
+2025-11-12,Lain-lain,977981,EXPENSE,lain-lain,Gopay
+2025-11-12,Top up Game,317467,EXPENSE,hiburan,Gopay
+2025-11-13,Insentif,6836327,INCOME,gaji,Dompet Tunai
+2025-11-13,BPJS,742551,EXPENSE,tagihan,Gopay
+2025-11-13,Investasi,12546832,INCOME,goals,Dompet Tunai
+2025-11-13,Gofood,760745,EXPENSE,makan & minum,BCA
+2025-11-13,Warung Nasi,1247412,EXPENSE,makan & minum,BCA
+2025-11-13,Main Ke Mall,296316,EXPENSE,hiburan,Gopay
+2025-11-13,Parkir,1053647,EXPENSE,tagihan,BCA
+2025-11-13,Bioskop,1195371,EXPENSE,hiburan,Gopay
+2025-11-13,Makan Siang,4071,EXPENSE,makan & minum,Dompet Tunai
+2025-11-14,Makan Siang,924982,EXPENSE,makan & minum,Gopay
+2025-11-14,Gaji Bulanan,7195543,INCOME,gaji,BCA
+2025-11-14,Warung Nasi,1139534,EXPENSE,makan & minum,BCA
+2025-11-14,Biaya Admin,402601,EXPENSE,lain-lain,Gopay
+2025-11-14,Listrik,113860,EXPENSE,tagihan,Gopay
+2025-11-14,Indomaret,124893,EXPENSE,belanja,BCA
+2025-11-14,Biaya Admin,417953,EXPENSE,lain-lain,BCA
+2025-11-14,Top up Game,149383,EXPENSE,hiburan,Dompet Tunai
+2025-11-15,Parkir,526574,EXPENSE,tagihan,Dompet Tunai
+2025-11-15,Warung Nasi,1293482,EXPENSE,makan & minum,BCA
+2025-11-15,Freelance Project,9339856,INCOME,gaji,BCA
+2025-11-15,Sabun,371155,EXPENSE,belanja,BCA
+2025-11-15,Listrik,291422,EXPENSE,tagihan,BCA
+2025-11-15,Sabun,30940,EXPENSE,belanja,BCA
+2025-11-15,Bonus,22090867,INCOME,gaji,Gopay
+2025-11-16,Main Ke Mall,1263391,EXPENSE,hiburan,Gopay
+2025-11-16,Kebutuhan Pokok,415162,EXPENSE,belanja,Gopay
+2025-11-16,Sabun,533655,EXPENSE,belanja,Dompet Tunai
+2025-11-16,Makan Siang,568137,EXPENSE,makan & minum,Gopay
+2025-11-16,Iuran Bulanan,1086221,EXPENSE,tagihan,Gopay
+2025-11-16,Lain-lain,308647,EXPENSE,lain-lain,BCA
+2025-11-16,Listrik,1194075,EXPENSE,tagihan,BCA
+2025-11-17,Listrik,57042,EXPENSE,tagihan,BCA
+2025-11-17,Gofood,1174147,EXPENSE,makan & minum,BCA
+2025-11-17,Biaya Admin,9174,EXPENSE,lain-lain,BCA
+2025-11-17,Sabun,354148,EXPENSE,belanja,Gopay
+2025-11-17,Investasi,3564694,INCOME,goals,Gopay
+2025-11-17,Warung Nasi,1196304,EXPENSE,makan & minum,Dompet Tunai
+2025-11-17,Indomaret,137937,EXPENSE,belanja,Dompet Tunai
+2025-11-17,Belanja Mingguan,581013,EXPENSE,belanja,Gopay
+2025-11-18,Warung Nasi,940853,EXPENSE,makan & minum,Dompet Tunai
+2025-11-18,Parkir,1001427,EXPENSE,tagihan,Dompet Tunai
+2025-11-18,Iuran Bulanan,1004205,EXPENSE,tagihan,Gopay
+2025-11-18,Belanja Mingguan,67815,EXPENSE,belanja,BCA
+2025-11-18,Main Ke Mall,474098,EXPENSE,hiburan,BCA
+2025-11-18,Biaya Admin,74925,EXPENSE,lain-lain,BCA
+2025-11-19,Main Ke Mall,919002,EXPENSE,hiburan,Dompet Tunai
+2025-11-19,Biaya Admin,461763,EXPENSE,lain-lain,Gopay
+2025-11-19,Lain-lain,193249,EXPENSE,lain-lain,BCA
+2025-11-19,Makan Siang,243231,EXPENSE,makan & minum,BCA
+2025-11-19,Air,614748,EXPENSE,tagihan,BCA
+2025-11-19,Listrik,275331,EXPENSE,tagihan,Gopay
+2025-11-19,Lain-lain,199452,EXPENSE,lain-lain,Gopay
+2025-11-19,Investasi,4710562,INCOME,goals,Gopay
+2025-11-20,Iuran Bulanan,8128,EXPENSE,tagihan,Dompet Tunai
+2025-11-20,Sabun,563453,EXPENSE,belanja,BCA
+2025-11-20,Sabun,276946,EXPENSE,belanja,Dompet Tunai
+2025-11-20,Cemilan,532281,EXPENSE,makan & minum,Dompet Tunai
+2025-11-20,Kebutuhan Pokok,1284355,EXPENSE,belanja,Gopay
+2025-11-20,Makan Malam,1015307,EXPENSE,makan & minum,Gopay
+2025-11-20,Belanja Mingguan,180304,EXPENSE,belanja,Dompet Tunai
+2025-11-21,Streaming,416307,EXPENSE,hiburan,Dompet Tunai
+2025-11-21,Internet,971662,EXPENSE,tagihan,BCA
+2025-11-21,Jajan Sore,1111152,EXPENSE,makan & minum,BCA
+2025-11-21,Investasi,18754789,INCOME,goals,BCA
+2025-11-21,Tissue,1335706,EXPENSE,belanja,Gopay
+2025-11-21,Biaya Admin,429938,EXPENSE,lain-lain,Dompet Tunai
+2025-11-21,Bioskop,5601,EXPENSE,hiburan,Dompet Tunai
+2025-11-21,Internet,1060499,EXPENSE,tagihan,Dompet Tunai
+2025-11-22,Bioskop,1262574,EXPENSE,hiburan,Gopay
+2025-11-22,Bioskop,292453,EXPENSE,hiburan,Gopay
+2025-11-22,Biaya Admin,191433,EXPENSE,lain-lain,Dompet Tunai
+2025-11-22,Pulsa,478167,EXPENSE,tagihan,Dompet Tunai
+2025-11-22,Freelance Project,1406205,INCOME,gaji,Gopay
+2025-11-23,Kebutuhan Pokok,973222,EXPENSE,belanja,BCA
+2025-11-23,Top up Game,1083965,EXPENSE,hiburan,Dompet Tunai
+2025-11-23,Iuran Bulanan,1271055,EXPENSE,tagihan,BCA
+2025-11-23,Bonus,9584891,INCOME,gaji,BCA
+2025-11-23,Biaya Admin,528758,EXPENSE,lain-lain,Gopay
+2025-11-24,Main Ke Mall,131283,EXPENSE,hiburan,Gopay
+2025-11-24,Lain-lain,687791,EXPENSE,lain-lain,Dompet Tunai
+2025-11-24,Biaya Admin,1219862,EXPENSE,lain-lain,Gopay
+2025-11-25,Cemilan,959867,EXPENSE,makan & minum,BCA
+2025-11-25,Makan Siang,708086,EXPENSE,makan & minum,BCA
+2025-11-25,Lain-lain,77494,EXPENSE,lain-lain,Gopay
+2025-11-25,Belanja Mingguan,540312,EXPENSE,belanja,Dompet Tunai
+2025-11-25,Streaming,70639,EXPENSE,hiburan,BCA
+2025-11-25,Lain-lain,897881,EXPENSE,lain-lain,Gopay
+2025-11-26,Bunga Bank,23460357,INCOME,goals,Dompet Tunai
+2025-11-26,Lain-lain,251492,EXPENSE,lain-lain,Gopay
+2025-11-26,Lain-lain,695791,EXPENSE,lain-lain,BCA
+2025-11-26,Main Ke Mall,894719,EXPENSE,hiburan,Gopay
+2025-11-26,Cemilan,831133,EXPENSE,makan & minum,Gopay
+2025-11-26,Warung Nasi,548642,EXPENSE,makan & minum,Gopay
+2025-11-26,Internet,1111598,EXPENSE,tagihan,Gopay
+2025-11-27,Gaji Bulanan,25232823,INCOME,gaji,BCA
+2025-11-27,Makan Siang,93193,EXPENSE,makan & minum,Dompet Tunai
+2025-11-27,Bioskop,1080772,EXPENSE,hiburan,Dompet Tunai
+2025-11-27,Main Ke Mall,224335,EXPENSE,hiburan,BCA
+2025-11-27,Tissue,934896,EXPENSE,belanja,BCA
+2025-11-27,Bioskop,1080514,EXPENSE,hiburan,BCA
+2025-11-27,Alfamart,66341,EXPENSE,belanja,BCA
+2025-11-28,Indomaret,594716,EXPENSE,belanja,Dompet Tunai
+2025-11-28,Cashback,4121325,INCOME,goals,BCA
+2025-11-28,Lain-lain,862177,EXPENSE,lain-lain,Gopay
+2025-11-28,Iuran Bulanan,303703,EXPENSE,tagihan,BCA
+2025-11-28,Streaming,71184,EXPENSE,hiburan,Gopay
+2025-11-29,Biaya Admin,490411,EXPENSE,lain-lain,BCA
+2025-11-29,Parkir,416862,EXPENSE,tagihan,Gopay
+2025-11-29,BPJS,816082,EXPENSE,tagihan,BCA
+2025-11-29,Listrik,99880,EXPENSE,tagihan,Gopay
+2025-11-29,Biaya Admin,494653,EXPENSE,lain-lain,BCA
+2025-11-29,Kebutuhan Pokok,103493,EXPENSE,belanja,BCA
+2025-11-29,Jajan Sore,90262,EXPENSE,makan & minum,BCA
+2025-11-30,Cashback,1576368,INCOME,goals,BCA
+2025-11-30,Listrik,90329,EXPENSE,tagihan,Gopay
+2025-11-30,Warung Nasi,182359,EXPENSE,makan & minum,Gopay
+2025-11-30,Bunga Bank,15190463,INCOME,goals,Dompet Tunai
+2025-11-30,Kebutuhan Pokok,100974,EXPENSE,belanja,Dompet Tunai
+2025-11-30,Biaya Admin,506194,EXPENSE,lain-lain,Dompet Tunai
+2025-11-30,Lain-lain,148021,EXPENSE,lain-lain,Gopay
+2025-11-30,Tissue,194869,EXPENSE,belanja,BCA
+2025-11-30,Makan Malam,1096602,EXPENSE,makan & minum,Gopay
+2025-12-01,Biaya Admin,239981,EXPENSE,lain-lain,BCA
+2025-12-01,Pulsa,712378,EXPENSE,tagihan,Dompet Tunai
+2025-12-01,Makan Siang,501448,EXPENSE,makan & minum,BCA
+2025-12-01,Main Ke Mall,1447385,EXPENSE,hiburan,Gopay
+2025-12-01,Cashback,18741016,INCOME,goals,Dompet Tunai
+2025-12-01,Parkir,1500058,EXPENSE,tagihan,Dompet Tunai
+2025-12-02,Main Ke Mall,480783,EXPENSE,hiburan,Gopay
+2025-12-02,Belanja Mingguan,59807,EXPENSE,belanja,BCA
+2025-12-02,Belanja Mingguan,763907,EXPENSE,belanja,BCA
+2025-12-02,Indomaret,76319,EXPENSE,belanja,Dompet Tunai
+2025-12-02,Lain-lain,790069,EXPENSE,lain-lain,Dompet Tunai
+2025-12-02,Gofood,492297,EXPENSE,makan & minum,BCA
+2025-12-02,Streaming,1486143,EXPENSE,hiburan,Gopay
+2025-12-03,Lain-lain,1654468,EXPENSE,lain-lain,BCA
+2025-12-03,Sabun,922613,EXPENSE,belanja,Gopay
+2025-12-03,Biaya Admin,1281374,EXPENSE,lain-lain,BCA
+2025-12-03,Bioskop,274783,EXPENSE,hiburan,Gopay
+2025-12-03,Air,811155,EXPENSE,tagihan,Gopay
+2025-12-03,Kebutuhan Pokok,1325228,EXPENSE,belanja,BCA
+2025-12-03,Gofood,99502,EXPENSE,makan & minum,Dompet Tunai
+2025-12-03,Pulsa,1338461,EXPENSE,tagihan,Gopay
+2025-12-03,BPJS,747631,EXPENSE,tagihan,Dompet Tunai
+2025-12-03,Biaya Admin,92423,EXPENSE,lain-lain,Dompet Tunai
+2025-12-04,Biaya Admin,23224,EXPENSE,lain-lain,Gopay
+2025-12-04,Kopi Pagi,636044,EXPENSE,makan & minum,Gopay
+2025-12-04,Jajan Sore,560051,EXPENSE,makan & minum,Gopay
+2025-12-05,Lain-lain,1331146,EXPENSE,lain-lain,Dompet Tunai
+2025-12-05,Kebutuhan Pokok,63650,EXPENSE,belanja,Dompet Tunai
+2025-12-05,Bioskop,1548887,EXPENSE,hiburan,Dompet Tunai
+2025-12-05,Iuran Bulanan,448553,EXPENSE,tagihan,BCA
+2025-12-05,Kebutuhan Pokok,221811,EXPENSE,belanja,BCA
+2025-12-06,Pulsa,312689,EXPENSE,tagihan,BCA
+2025-12-06,Biaya Admin,553257,EXPENSE,lain-lain,BCA
+2025-12-06,Lain-lain,868117,EXPENSE,lain-lain,Dompet Tunai
+2025-12-06,Makan Malam,987122,EXPENSE,makan & minum,Dompet Tunai
+2025-12-06,Pulsa,248079,EXPENSE,tagihan,Gopay
+2025-12-06,Biaya Admin,85426,EXPENSE,lain-lain,BCA
+2025-12-06,Main Ke Mall,870032,EXPENSE,hiburan,Dompet Tunai
+2025-12-07,Iuran Bulanan,397089,EXPENSE,tagihan,Dompet Tunai
+2025-12-07,Air,1163075,EXPENSE,tagihan,Gopay
+2025-12-07,Insentif,4658148,INCOME,gaji,Gopay
+2025-12-08,Tabungan,23650277,INCOME,goals,Dompet Tunai
+2025-12-08,Lain-lain,147419,EXPENSE,lain-lain,BCA
+2025-12-08,Air,442626,EXPENSE,tagihan,BCA
+2025-12-09,Biaya Admin,786241,EXPENSE,lain-lain,BCA
+2025-12-09,Investasi,732980,INCOME,goals,Gopay
+2025-12-09,Listrik,909204,EXPENSE,tagihan,BCA
+2025-12-09,Tissue,913389,EXPENSE,belanja,BCA
+2025-12-10,BPJS,522426,EXPENSE,tagihan,Dompet Tunai
+2025-12-11,Streaming,1409973,EXPENSE,hiburan,Dompet Tunai
+2025-12-11,Cemilan,388391,EXPENSE,makan & minum,BCA
+2025-12-11,Gofood,917671,EXPENSE,makan & minum,Gopay
+2025-12-11,Makan Malam,97396,EXPENSE,makan & minum,Gopay
+2025-12-11,Kebutuhan Pokok,757319,EXPENSE,belanja,Gopay
+2025-12-11,Internet,1262239,EXPENSE,tagihan,BCA
+2025-12-11,Cemilan,9389,EXPENSE,makan & minum,Gopay
+2025-12-11,Biaya Admin,1165933,EXPENSE,lain-lain,Gopay
+2025-12-11,Gofood,148826,EXPENSE,makan & minum,Dompet Tunai
+2025-12-11,Bioskop,1030972,EXPENSE,hiburan,Dompet Tunai
+2025-12-12,Top up Game,1545158,EXPENSE,hiburan,Dompet Tunai
+2025-12-12,Listrik,1426045,EXPENSE,tagihan,Gopay
+2025-12-12,Kopi Pagi,1236236,EXPENSE,makan & minum,Gopay
+2025-12-12,Listrik,1082654,EXPENSE,tagihan,Dompet Tunai
+2025-12-12,Tabungan,5217427,INCOME,goals,Dompet Tunai
+2025-12-12,Cemilan,574318,EXPENSE,makan & minum,Dompet Tunai
+2025-12-12,Warung Nasi,1008684,EXPENSE,makan & minum,Gopay
+2025-12-13,Alfamart,1093585,EXPENSE,belanja,Dompet Tunai
+2025-12-13,Biaya Admin,202081,EXPENSE,lain-lain,Dompet Tunai
+2025-12-13,Cashback,16115804,INCOME,goals,Dompet Tunai
+2025-12-13,Biaya Admin,207131,EXPENSE,lain-lain,Gopay
+2025-12-14,Lain-lain,36911,EXPENSE,lain-lain,Gopay
+2025-12-14,Lain-lain,1326595,EXPENSE,lain-lain,Dompet Tunai
+2025-12-14,Cemilan,1366324,EXPENSE,makan & minum,BCA
+2025-12-14,Streaming,350642,EXPENSE,hiburan,BCA
+2025-12-14,Kebutuhan Pokok,1305919,EXPENSE,belanja,Gopay
+2025-12-14,Freelance Project,755321,INCOME,gaji,BCA
+2025-12-14,Insentif,3157188,INCOME,gaji,Dompet Tunai
+2025-12-15,Freelance Project,12056994,INCOME,gaji,Dompet Tunai
+2025-12-15,Main Ke Mall,700334,EXPENSE,hiburan,BCA
+2025-12-15,Makan Malam,83122,EXPENSE,makan & minum,Dompet Tunai
+2025-12-15,Biaya Admin,943067,EXPENSE,lain-lain,BCA
+2025-12-15,Lain-lain,1160163,EXPENSE,lain-lain,BCA
+2025-12-15,BPJS,1229058,EXPENSE,tagihan,BCA
+2025-12-15,Gaji Bulanan,14072793,INCOME,gaji,Gopay
+2025-12-15,BPJS,1196498,EXPENSE,tagihan,BCA
+2025-12-16,Top up Game,142297,EXPENSE,hiburan,Gopay
+2025-12-16,Biaya Admin,409011,EXPENSE,lain-lain,BCA
+2025-12-16,Biaya Admin,1278435,EXPENSE,lain-lain,Dompet Tunai
+2025-12-16,Jajan Sore,1236856,EXPENSE,makan & minum,Gopay
+2025-12-16,Warung Nasi,600765,EXPENSE,makan & minum,BCA
+2025-12-16,Gofood,349323,EXPENSE,makan & minum,BCA
+2025-12-16,Iuran Bulanan,65886,EXPENSE,tagihan,BCA
+2025-12-16,Biaya Admin,96377,EXPENSE,lain-lain,Gopay
+2025-12-16,Streaming,1255971,EXPENSE,hiburan,Dompet Tunai
+2025-12-16,Cemilan,1565429,EXPENSE,makan & minum,Dompet Tunai
+2025-12-17,Lain-lain,479363,EXPENSE,lain-lain,BCA
+2025-12-17,Freelance Project,101428,INCOME,gaji,Dompet Tunai
+2025-12-17,Streaming,254801,EXPENSE,hiburan,Dompet Tunai
+2025-12-17,Streaming,1471823,EXPENSE,hiburan,Gopay
+2025-12-17,Lain-lain,1254602,EXPENSE,lain-lain,BCA
+2025-12-17,Pulsa,758668,EXPENSE,tagihan,Gopay
+2025-12-17,Bioskop,809136,EXPENSE,hiburan,Gopay
+2025-12-17,Biaya Admin,1380446,EXPENSE,lain-lain,Dompet Tunai
+2025-12-18,Top up Game,1243526,EXPENSE,hiburan,Dompet Tunai
+2025-12-18,Air,384921,EXPENSE,tagihan,Gopay
+2025-12-18,Belanja Mingguan,737669,EXPENSE,belanja,Gopay
+2025-12-18,Gofood,945005,EXPENSE,makan & minum,Gopay
+2025-12-18,Lain-lain,977159,EXPENSE,lain-lain,Gopay
+2025-12-18,Streaming,418199,EXPENSE,hiburan,Dompet Tunai
+2025-12-18,Lain-lain,1184613,EXPENSE,lain-lain,Gopay
+2025-12-19,Makan Malam,1554032,EXPENSE,makan & minum,Gopay
+2025-12-19,Makan Malam,1192168,EXPENSE,makan & minum,BCA
+2025-12-19,Kopi Pagi,137915,EXPENSE,makan & minum,Dompet Tunai
+2025-12-19,Internet,566908,EXPENSE,tagihan,Gopay
+2025-12-19,BPJS,204514,EXPENSE,tagihan,BCA
+2025-12-20,Kebutuhan Pokok,123328,EXPENSE,belanja,Dompet Tunai
+2025-12-20,Main Ke Mall,845576,EXPENSE,hiburan,BCA
+2025-12-20,Freelance Project,933481,INCOME,gaji,BCA
+2025-12-20,Freelance Project,22345092,INCOME,gaji,Dompet Tunai
+2025-12-20,Lain-lain,928022,EXPENSE,lain-lain,BCA
+2025-12-20,Main Ke Mall,1305493,EXPENSE,hiburan,Dompet Tunai
+2025-12-20,Streaming,1541032,EXPENSE,hiburan,BCA
+2025-12-21,Sabun,988723,EXPENSE,belanja,Dompet Tunai
+2025-12-21,Biaya Admin,1197625,EXPENSE,lain-lain,Gopay
+2025-12-21,Top up Game,126162,EXPENSE,hiburan,Gopay
+2025-12-21,Iuran Bulanan,469823,EXPENSE,tagihan,BCA
+2025-12-21,Kopi Pagi,1378492,EXPENSE,makan & minum,Gopay
+2025-12-21,Belanja Mingguan,1161719,EXPENSE,belanja,BCA
+2025-12-22,Cemilan,1421769,EXPENSE,makan & minum,Gopay
+2025-12-22,Biaya Admin,1642697,EXPENSE,lain-lain,BCA
+2025-12-22,Parkir,682431,EXPENSE,tagihan,Gopay
+2025-12-22,Parkir,1436268,EXPENSE,tagihan,Dompet Tunai
+2025-12-22,Indomaret,1095746,EXPENSE,belanja,BCA
+2025-12-22,Lain-lain,520603,EXPENSE,lain-lain,Gopay
+2025-12-22,Kebutuhan Pokok,676571,EXPENSE,belanja,Dompet Tunai
+2025-12-22,Top up Game,747401,EXPENSE,hiburan,Gopay
+2025-12-22,Investasi,4386124,INCOME,goals,BCA
+2025-12-22,Bioskop,1522227,EXPENSE,hiburan,BCA
+2025-12-22,Biaya Admin,1449949,EXPENSE,lain-lain,Gopay
+2025-12-22,Top up Game,138579,EXPENSE,hiburan,Gopay
+2025-12-23,Streaming,1508269,EXPENSE,hiburan,Dompet Tunai
+2025-12-23,Gofood,835244,EXPENSE,makan & minum,Dompet Tunai
+2025-12-23,Indomaret,67086,EXPENSE,belanja,Dompet Tunai
+2025-12-23,Main Ke Mall,923361,EXPENSE,hiburan,Dompet Tunai
+2025-12-23,Main Ke Mall,459959,EXPENSE,hiburan,Gopay
+2025-12-23,Warung Nasi,1615166,EXPENSE,makan & minum,Gopay
+2025-12-23,Alfamart,1376571,EXPENSE,belanja,Dompet Tunai
+2025-12-23,Biaya Admin,655246,EXPENSE,lain-lain,Dompet Tunai
+2025-12-23,Gaji Bulanan,10417932,INCOME,gaji,Dompet Tunai
+2025-12-23,Pulsa,1454605,EXPENSE,tagihan,BCA
+2025-12-23,Main Ke Mall,1142832,EXPENSE,hiburan,Dompet Tunai
+2025-12-24,Gofood,1311785,EXPENSE,makan & minum,BCA
+2025-12-24,Lain-lain,1303655,EXPENSE,lain-lain,Dompet Tunai
+2025-12-24,Top up Game,907831,EXPENSE,hiburan,BCA
+2025-12-24,Biaya Admin,134522,EXPENSE,lain-lain,Dompet Tunai
+2025-12-24,Bunga Bank,23539214,INCOME,goals,Dompet Tunai
+2025-12-24,Kopi Pagi,875354,EXPENSE,makan & minum,BCA
+2025-12-25,Parkir,1408508,EXPENSE,tagihan,Dompet Tunai
+2025-12-25,Indomaret,294417,EXPENSE,belanja,Dompet Tunai
+2025-12-25,Biaya Admin,804648,EXPENSE,lain-lain,Gopay
+2025-12-25,Lain-lain,706084,EXPENSE,lain-lain,BCA
+2025-12-25,Investasi,2274481,INCOME,goals,BCA
+2025-12-25,Listrik,74893,EXPENSE,tagihan,BCA
+2025-12-25,Listrik,919307,EXPENSE,tagihan,BCA
+2025-12-25,Belanja Mingguan,559177,EXPENSE,belanja,Gopay
+2025-12-25,Sabun,108685,EXPENSE,belanja,Dompet Tunai
+2025-12-25,Internet,28441,EXPENSE,tagihan,Dompet Tunai
+2025-12-25,Sabun,641492,EXPENSE,belanja,BCA
+2025-12-26,Makan Siang,1128247,EXPENSE,makan & minum,Dompet Tunai
+2025-12-26,Internet,1174647,EXPENSE,tagihan,Gopay
+2025-12-26,Makan Malam,519468,EXPENSE,makan & minum,BCA
+2025-12-26,Tissue,61565,EXPENSE,belanja,Gopay
+2025-12-26,Indomaret,104881,EXPENSE,belanja,BCA
+2025-12-26,Biaya Admin,165802,EXPENSE,lain-lain,Dompet Tunai
+2025-12-27,Parkir,34406,EXPENSE,tagihan,Dompet Tunai
+2025-12-27,Bonus,1066967,INCOME,gaji,BCA
+2025-12-27,Bonus,218311,INCOME,gaji,Gopay
+2025-12-27,Pulsa,55899,EXPENSE,tagihan,Gopay
+2025-12-27,Biaya Admin,908622,EXPENSE,lain-lain,Gopay
+2025-12-27,Pulsa,1375389,EXPENSE,tagihan,Dompet Tunai
+2025-12-28,Biaya Admin,265412,EXPENSE,lain-lain,BCA
+2025-12-28,Biaya Admin,1490908,EXPENSE,lain-lain,Dompet Tunai
+2025-12-28,Streaming,1490362,EXPENSE,hiburan,Gopay
+2025-12-28,Streaming,862835,EXPENSE,hiburan,Gopay
+2025-12-29,Cemilan,854434,EXPENSE,makan & minum,BCA
+2025-12-29,Bioskop,106900,EXPENSE,hiburan,Dompet Tunai
+2025-12-29,Warung Nasi,912035,EXPENSE,makan & minum,Dompet Tunai
+2025-12-29,Investasi,13204045,INCOME,goals,Dompet Tunai
+2025-12-29,Lain-lain,177431,EXPENSE,lain-lain,BCA
+2025-12-29,Gofood,165102,EXPENSE,makan & minum,Dompet Tunai
+2025-12-29,Biaya Admin,85989,EXPENSE,lain-lain,Gopay
+2025-12-29,Belanja Mingguan,53685,EXPENSE,belanja,Dompet Tunai
+2025-12-30,Makan Malam,736567,EXPENSE,makan & minum,BCA
+2025-12-30,Internet,982623,EXPENSE,tagihan,BCA
+2025-12-30,Biaya Admin,1205222,EXPENSE,lain-lain,Gopay
+2025-12-31,Makan Malam,1627867,EXPENSE,makan & minum,Dompet Tunai
+2025-12-31,Internet,1018436,EXPENSE,tagihan,Gopay
+2025-12-31,Belanja Mingguan,1271285,EXPENSE,belanja,Gopay
+2025-12-31,Makan Siang,1553897,EXPENSE,makan & minum,Gopay
+2025-12-31,Main Ke Mall,704379,EXPENSE,hiburan,BCA
