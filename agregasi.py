@@ -1,23 +1,26 @@
 import pandas as pd
 
-# 1. Load Data Bersih
-df = pd.read_csv('transaksi_bersih.csv')
+# 1. Load Data Final
+df = pd.read_csv('data_final_mapped.csv')
+df['Date'] = pd.to_datetime(df['Date'])
 
-# 2. PROSES AGREGASI (Sesuai Roadmap)
-# a. Agregasi Harian (untuk tren waktu)
-agregasi_hari = df.groupby('Date')['Amount'].sum().reset_index()
+# 2. FILTER: Hanya Pengeluaran (EXPENSE)
+df_expense = df[df['Type'] == 'EXPENSE'].copy()
 
-# b. Agregasi Kategori (untuk distribusi pengeluaran)
-agregasi_kategori = df.groupby('Category')['Amount'].agg(['sum', 'count', 'mean']).reset_index()
-# sum = total uang, count = berapa kali transaksi, mean = rata-rata sekali belanja
+# 3. TAMBAHKAN KOLOM BULAN (Untuk pengelompokan per bulan)
+# Kita buat format YYYY-MM agar urutan bulannya benar
+df_expense['Month'] = df_expense['Date'].dt.to_period('M')
 
-# 3. Menampilkan Hasil Agregasi
-print("--- HASIL AGREGASI HARIAN ---")
-print(agregasi_hari.head())
+# 4. PROSES AGREGASI PER BULAN (Sesuai Perintah)
+agregasi_bulanan = df_expense.groupby('Month')['Amount'].agg(['sum', 'count', 'mean']).reset_index()
 
-print("\n--- HASIL AGREGASI KATEGORI ---")
-print(agregasi_kategori)
+# Rapikan tampilan angka
+agregasi_bulanan['sum'] = agregasi_bulanan['sum'].apply(lambda x: f"Rp {x:,.0f}")
+agregasi_bulanan['mean'] = agregasi_bulanan['mean'].apply(lambda x: f"Rp {x:,.0f}")
 
-# 4. Simpan hasil agregasi untuk tahap Stage 3 (Reporting)
-agregasi_hari.to_csv('data_agregasi_hari.csv', index=False)
-agregasi_kategori.to_csv('data_agregasi_kategori.csv', index=False)
+# 5. Menampilkan Hasil
+print("--- RINGKASAN PENGELUARAN PER BULAN (6 BULAN) ---")
+print(agregasi_bulanan)
+
+# 6. Simpan untuk kebutuhan laporan/dashboard
+agregasi_bulanan.to_csv('pengeluaran_per_bulan.csv', index=False)
