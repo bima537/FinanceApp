@@ -1,0 +1,614 @@
+Tanggal,Deskripsi,Nominal,Tipe,Kategori,Kategori_Otomatis
+2025-04-22,Makan,74341,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-04-23,Gojek,80980,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-04-24,Kopi,57596,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-04-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-04-25,Gojek,59666,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-04-26,Gojek,42137,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-04-26,Hiburan Weekend,231958,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-04-27,Kopi,78599,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-04-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-04-27,Hiburan Weekend,261812,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-04-28,Makan,43810,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-04-29,Makan,66306,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-04-30,Gojek,78496,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-04-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2025-05-01,Gojek,51965,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-02,Kopi,52054,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-03,Gojek,51868,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-03,Hiburan Weekend,316899,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-05-04,Gojek,49777,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-04,Hiburan Weekend,402176,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-05-05,Makan,43032,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2025-05-06,Gojek,85018,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-07,Makan,68194,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-08,Kopi,68526,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-09,Makan,55244,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-10,Makan,59643,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-10,Hiburan Weekend,361113,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-05-11,Kopi,64691,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-11,Hiburan Weekend,201346,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-05-12,Makan,65391,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-13,Kopi,48408,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-14,Gojek,87928,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-15,Kopi,45400,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-16,Gojek,54699,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-17,Kopi,43595,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-17,Hiburan Weekend,340793,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-05-18,Gojek,86345,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-18,Hiburan Weekend,321585,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-05-19,Kopi,65028,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-20,Kopi,89551,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-21,Gojek,82612,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-22,Gojek,59554,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-23,Makan,83656,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-24,Makan,68330,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-24,Hiburan Weekend,260301,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-05-25,Makan,64667,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-25,Hiburan Weekend,331894,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-05-26,Kopi,73791,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-27,Makan,53966,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-28,Makan,86970,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-29,Gojek,45382,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-05-30,Kopi,60319,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-05-31,Makan,47283,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-05-31,Hiburan Weekend,437557,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2025-06-01,Makan,48071,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-01,Hiburan Weekend,423497,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-02,Kopi,62228,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-03,Kopi,76143,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-06-04,Makan,51138,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-05,Kopi,41107,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2025-06-06,Makan,45429,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-06-07,Makan,55818,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-07,Hiburan Weekend,260053,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-08,Makan,44870,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-08,Hiburan Weekend,408646,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-09,Makan,57025,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-06-10,Gojek,84677,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-11,Makan,52715,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-12,Makan,61607,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-06-13,Gojek,73104,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-14,Kopi,76066,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-14,Hiburan Weekend,315604,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-15,Gojek,88755,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-06-15,Hiburan Weekend,464168,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-16,Makan,70798,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-17,Makan,55573,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-18,Makan,61582,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-06-19,Gojek,63013,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-20,Gojek,69318,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-21,Gojek,68000,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-06-21,Hiburan Weekend,424911,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-22,Gojek,58843,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-22,Hiburan Weekend,472050,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-23,Kopi,62950,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-24,Gojek,50998,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-06-25,Kopi,48466,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-26,Gojek,65565,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-27,Gojek,40608,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-06-28,Kopi,53679,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-28,Hiburan Weekend,417127,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-29,Gojek,81676,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-06-29,Hiburan Weekend,448101,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-06-30,Kopi,63043,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-06-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2025-07-01,Makan,69653,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-02,Gojek,87359,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-03,Gojek,63141,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-04,Makan,71476,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-05,Kopi,84712,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-05,Hiburan Weekend,298354,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-07-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2025-07-06,Gojek,74511,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-06,Hiburan Weekend,226841,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-07-07,Gojek,48717,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-08,Makan,71664,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-09,Kopi,56624,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-10,Gojek,45860,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-11,Kopi,68696,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-12,Gojek,56852,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-12,Hiburan Weekend,474925,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-07-13,Kopi,89092,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-13,Hiburan Weekend,438582,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-07-14,Kopi,46874,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-15,Makan,54864,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-16,Gojek,70095,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-17,Makan,47883,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-18,Gojek,61790,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-19,Makan,72054,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-19,Hiburan Weekend,374739,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-07-20,Kopi,73147,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-20,Hiburan Weekend,229069,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-07-21,Makan,84811,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-22,Makan,78360,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-23,Kopi,53482,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-24,Makan,87548,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-25,Gojek,50469,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-26,Makan,80053,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-07-26,Hiburan Weekend,226640,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-07-27,Gojek,76384,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-27,Hiburan Weekend,388074,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-07-28,Gojek,43631,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-29,Gojek,71423,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-30,Gojek,78586,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-07-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-07-31,Gojek,60777,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2025-08-01,Gojek,86271,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-02,Kopi,57313,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-02,Hiburan Weekend,372625,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-08-03,Gojek,77880,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-03,Hiburan Weekend,474912,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-08-04,Makan,46848,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-05,Kopi,87715,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2025-08-06,Kopi,42826,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-07,Kopi,81107,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-08,Kopi,41282,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-09,Gojek,74546,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-09,Hiburan Weekend,394429,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-08-10,Kopi,81590,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-10,Hiburan Weekend,297058,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-08-11,Gojek,45961,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-12,Gojek,67745,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-13,Gojek,68090,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-14,Makan,82462,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-15,Kopi,55280,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-16,Gojek,56586,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-16,Hiburan Weekend,306601,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-08-17,Gojek,43066,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-17,Hiburan Weekend,346436,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-08-18,Makan,82738,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-19,Gojek,65792,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-20,Kopi,44160,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-21,Gojek,78457,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-22,Gojek,62213,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-23,Kopi,54043,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-23,Hiburan Weekend,351068,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-08-24,Kopi,78721,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-24,Hiburan Weekend,493312,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-08-25,Makan,57879,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-26,Makan,83034,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-27,Gojek,63395,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-28,Gojek,71057,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-29,Kopi,84554,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-30,Makan,71899,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-08-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-08-30,Hiburan Weekend,484582,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-08-31,Gojek,61666,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-08-31,Hiburan Weekend,220701,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-09-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2025-09-01,Gojek,71851,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-02,Gojek,89266,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-03,Makan,65940,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-09-04,Gojek,79775,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-05,Makan,45841,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2025-09-06,Gojek,65407,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-09-06,Hiburan Weekend,331100,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-09-07,Gojek,54782,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-07,Hiburan Weekend,276839,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-09-08,Kopi,60658,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-09,Kopi,77499,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-09-10,Kopi,41194,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-11,Kopi,46024,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-12,Makan,77567,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-09-13,Makan,57723,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-13,Hiburan Weekend,267344,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-09-14,Kopi,70964,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-14,Hiburan Weekend,309427,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-09-15,Makan,57335,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-09-16,Makan,82121,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-17,Makan,43343,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-18,Gojek,89964,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-09-19,Gojek,57198,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-20,Kopi,86721,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-20,Hiburan Weekend,423544,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-09-21,Gojek,46116,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-09-21,Hiburan Weekend,309004,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-09-22,Gojek,77842,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-23,Gojek,71877,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-24,Makan,67248,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-09-25,Makan,55494,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-26,Kopi,63513,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-27,Makan,71089,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-09-27,Hiburan Weekend,361430,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-09-28,Makan,53563,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-28,Hiburan Weekend,456909,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-09-29,Kopi,77270,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-09-30,Gojek,51782,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-09-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2025-10-01,Kopi,61946,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-02,Gojek,66808,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-03,Kopi,40302,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-04,Gojek,81096,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-04,Hiburan Weekend,219616,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-10-05,Makan,52842,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-05,Hiburan Weekend,291108,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-10-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2025-10-06,Gojek,82822,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-07,Kopi,54781,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-08,Kopi,57837,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-09,Makan,54489,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-10,Makan,53487,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-11,Gojek,60983,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-11,Hiburan Weekend,387879,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-10-12,Gojek,80132,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-12,Hiburan Weekend,321600,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-10-13,Kopi,84223,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-14,Makan,81410,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-15,Kopi,80226,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-16,Gojek,72901,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-17,Gojek,43589,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-18,Makan,52723,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-18,Hiburan Weekend,354001,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-10-19,Makan,73320,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-19,Hiburan Weekend,465602,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-10-20,Kopi,70270,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-21,Kopi,62906,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-22,Kopi,51115,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-23,Makan,75456,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-24,Makan,56122,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-25,Gojek,46986,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-25,Hiburan Weekend,255688,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-10-26,Kopi,45180,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-26,Hiburan Weekend,360535,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-10-27,Kopi,88585,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-28,Gojek,50794,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-29,Makan,84534,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-10-30,Gojek,57365,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-10-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-10-31,Makan,59851,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2025-11-01,Kopi,49407,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-01,Hiburan Weekend,353256,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-11-02,Gojek,89956,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-11-02,Hiburan Weekend,204496,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-11-03,Kopi,69138,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-04,Kopi,61059,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-05,Gojek,48772,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-11-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2025-11-06,Gojek,54018,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-11-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-07,Gojek,53033,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-11-08,Makan,52426,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-08,Hiburan Weekend,246896,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-11-09,Kopi,69300,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-09,Hiburan Weekend,483069,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-11-10,Makan,58038,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-11,Kopi,46643,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-12,Makan,80069,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-13,Gojek,75534,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-11-14,Kopi,67627,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-15,Kopi,85030,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-15,Hiburan Weekend,474864,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-11-16,Kopi,46550,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-16,Hiburan Weekend,270170,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-11-17,Kopi,72390,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-18,Gojek,80601,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-11-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-19,Kopi,86459,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-20,Makan,72876,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-21,Kopi,82572,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-22,Makan,83228,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-22,Hiburan Weekend,245782,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-11-23,Makan,52252,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-23,Hiburan Weekend,465575,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-11-24,Gojek,59114,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-11-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-25,Kopi,49322,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-26,Makan,83292,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-27,Kopi,49508,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-28,Kopi,61696,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-11-29,Gojek,60851,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-11-29,Hiburan Weekend,377966,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-11-30,Gojek,62230,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-11-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-11-30,Hiburan Weekend,389194,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-12-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2025-12-01,Kopi,80618,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-02,Gojek,72803,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-03,Makan,84358,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-04,Kopi,89876,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-05,Gojek,89279,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2025-12-06,Kopi,58779,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-06,Hiburan Weekend,316572,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-12-07,Kopi,89635,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-07,Hiburan Weekend,209602,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-12-08,Gojek,68101,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-09,Kopi,81113,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-10,Gojek,40029,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-11,Makan,54079,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-12,Gojek,85104,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-13,Kopi,54626,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-13,Hiburan Weekend,222793,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-12-14,Makan,84584,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-14,Hiburan Weekend,323119,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-12-15,Gojek,56636,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-16,Kopi,75780,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-17,Gojek,48183,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-18,Gojek,76360,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-19,Gojek,59558,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-20,Bonus Akhir Tahun,4000000,Pemasukan,Pendapatan,Pendapatan
+2025-12-20,Makan,54540,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-20,Hiburan Weekend,333239,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-12-21,Makan,44586,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-21,Hiburan Weekend,302002,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-12-22,Makan,42884,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-23,Gojek,65702,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-24,Makan,50484,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-25,Gojek,65307,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-26,Gojek,85813,Pengeluaran,Kebutuhan Harian,Transportasi
+2025-12-27,Makan,84238,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-27,Hiburan Weekend,440143,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-12-28,Kopi,80303,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-28,Hiburan Weekend,401432,Pengeluaran,Gaya Hidup,Gaya Hidup
+2025-12-29,Kopi,67741,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-30,Makan,72327,Pengeluaran,Kebutuhan Harian,Konsumsi
+2025-12-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2025-12-31,Kopi,46853,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2026-01-01,Gojek,79720,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-02,Makan,60226,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-03,Kopi,73984,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-03,Hiburan Weekend,375312,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-01-04,Kopi,62032,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-04,Hiburan Weekend,429692,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-01-05,Gojek,83767,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2026-01-06,Makan,41131,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-07,Gojek,57646,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-08,Gojek,54638,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-09,Makan,66873,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-10,Gojek,69755,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-10,Hiburan Weekend,434467,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-01-11,Makan,59431,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-11,Hiburan Weekend,340902,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-01-12,Kopi,55424,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-13,Kopi,40810,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-14,Gojek,49159,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-15,Gojek,74766,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-16,Makan,73126,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-17,Makan,55695,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-17,Hiburan Weekend,283031,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-01-18,Makan,54223,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-18,Hiburan Weekend,312475,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-01-19,Makan,40196,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-20,Gojek,57219,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-21,Kopi,82532,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-22,Makan,85381,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-23,Kopi,47267,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-24,Gojek,54954,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-24,Hiburan Weekend,458661,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-01-25,Gojek,50606,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-25,Hiburan Weekend,439946,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-01-26,Gojek,64932,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-01-27,Kopi,59631,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-28,Makan,81251,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-29,Kopi,57580,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-30,Kopi,87074,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-01-31,Makan,70252,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-01-31,Hiburan Weekend,494620,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-02-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2026-02-01,Gojek,67156,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-01,Hiburan Weekend,499808,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-02-02,Kopi,49969,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-03,Makan,69929,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-02-04,Gojek,65499,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-05,Kopi,52173,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2026-02-06,Kopi,79240,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-02-07,Kopi,50240,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-07,Hiburan Weekend,236582,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-02-08,Gojek,56530,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-08,Hiburan Weekend,391436,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-02-09,Gojek,53257,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-02-10,Makan,60062,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-11,Gojek,61020,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-12,Gojek,55057,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-02-13,Kopi,81070,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-14,Makan,44858,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-14,Hiburan Weekend,318565,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-02-15,Makan,86583,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-02-15,Hiburan Weekend,385536,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-02-16,Gojek,52182,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-17,Makan,76605,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-18,Gojek,88354,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-02-19,Makan,89434,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-20,Kopi,74679,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-21,Gojek,68933,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-02-21,Hiburan Weekend,496975,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-02-22,Makan,73554,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-22,Hiburan Weekend,258144,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-02-23,Kopi,51108,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-24,Makan,85101,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-02-25,Gojek,48896,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-02-26,Kopi,45194,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-27,Kopi,53159,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-02-28,Makan,41943,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-02-28,Hiburan Weekend,418060,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2026-03-01,Kopi,40190,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-01,Hiburan Weekend,413381,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-02,Makan,40749,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-03,Gojek,88517,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-03-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-04,Kopi,45889,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-05,Makan,64065,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2026-03-06,Makan,43214,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-07,Kopi,73718,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-07,Hiburan Weekend,451385,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-08,Kopi,75177,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-08,Hiburan Weekend,296806,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-09,Gojek,42727,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-03-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-10,Kopi,85043,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-11,Kopi,73573,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-12,Makan,86865,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-13,Makan,61562,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-14,Kopi,46354,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-14,Hiburan Weekend,328508,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-15,Kopi,55250,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-15,Hiburan Weekend,333224,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-16,Gojek,81862,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-03-17,Makan,54132,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-18,Kopi,85656,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-19,Kopi,74711,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-20,Makan,88694,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-21,Makan,41347,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-21,Hiburan Weekend,407207,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-22,Gojek,64898,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-03-22,Hiburan Weekend,463915,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-23,Gojek,55124,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-03-24,Makan,68693,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-24,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-25,Makan,48976,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-26,Kopi,57187,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-27,Kopi,67705,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-27,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-28,Makan,83351,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-28,Hiburan Weekend,357425,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-29,Makan,75234,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-29,Hiburan Weekend,204701,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-03-30,Makan,54580,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-03-30,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-03-31,Gojek,82723,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-04-01,Gaji Bulanan,8000000,Pemasukan,Pendapatan,Pendapatan
+2026-04-01,Gojek,69238,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-04-02,Kopi,40741,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-03,Gojek,79609,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-04-03,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-04-04,Makan,46374,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-04,Hiburan Weekend,336144,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-04-05,Makan,52120,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-05,Hiburan Weekend,479515,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-04-05,Tagihan Rutin Bulanan,1500000,Pengeluaran,Tagihan,Tagihan & Kebutuhan
+2026-04-06,Kopi,86865,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-06,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-04-07,Kopi,47256,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-08,Makan,50643,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-09,Kopi,80182,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-09,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-04-10,Makan,46777,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-11,Kopi,63287,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-11,Hiburan Weekend,292878,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-04-12,Kopi,64857,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-12,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-04-12,Hiburan Weekend,432544,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-04-13,Makan,51227,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-14,Makan,53424,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-15,Makan,78436,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-15,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-04-16,Gojek,53200,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-04-17,Gojek,88129,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-04-18,Gojek,77439,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-04-18,Bensin,50000,Pengeluaran,Transportasi,Transportasi
+2026-04-18,Hiburan Weekend,420908,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-04-19,Gojek,85487,Pengeluaran,Kebutuhan Harian,Transportasi
+2026-04-19,Hiburan Weekend,389743,Pengeluaran,Gaya Hidup,Gaya Hidup
+2026-04-20,Kopi,48402,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-21,Makan,77827,Pengeluaran,Kebutuhan Harian,Konsumsi
+2026-04-21,Bensin,50000,Pengeluaran,Transportasi,Transportasi
