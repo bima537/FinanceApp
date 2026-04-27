@@ -1,9 +1,11 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
+import csv
 
-# 1. Pengaturan Waktu (1 Tahun = 365 Hari)
+# 1. PENGATURAN WAKTU (1 Tahun ke Belakang dari Hari Ini)
 jumlah_hari = 365
+# Kita buat mundur agar ada data historis untuk dianalisis
 start_date = datetime.now() - timedelta(days=jumlah_hari - 1)
 tanggal_list = [start_date + timedelta(days=i) for i in range(jumlah_hari)]
 
@@ -16,50 +18,73 @@ for tgl in tanggal_list:
     # Gaji Bulanan (Setiap Tanggal 1)
     if tgl.day == 1:
         data_final.append({
-            'Tanggal': tgl_str, 'Deskripsi': 'Gaji Bulanan',
-            'Nominal': 8000000, 'Tipe': 'Pemasukan', 'Kategori': 'Pendapatan'
+            'tanggal': tgl_str, 
+            'deskripsi': 'Gaji Bulanan',
+            'nominal': 8000000, 
+            'tipe': 'Pemasukan', 
+            'kategori': 'Pendapatan'
         })
     
-    # Bonus Tahunan (Misal di bulan Desember atau Juni)
-    if tgl.month == 12 and tgl.day == 20:
+    # Pemasukan Tambahan (Acak, probabilitas 3% per hari)
+    if np.random.random() < 0.03:
         data_final.append({
-            'Tanggal': tgl_str, 'Deskripsi': 'Bonus Akhir Tahun',
-            'Nominal': 4000000, 'Tipe': 'Pemasukan', 'Kategori': 'Pendapatan'
+            'tanggal': tgl_str, 
+            'deskripsi': 'Bonus / Cashback',
+            'nominal': np.random.randint(50000, 200000),
+            'tipe': 'Pemasukan', 
+            'kategori': 'Pendapatan'
         })
 
     # --- B. PENGELUARAN (EXPENSE) ---
-    # 1. Makan & Kebutuhan Harian (Hampir setiap hari)
+    # 1. Makan & Kebutuhan Harian (Pasti ada setiap hari)
     data_final.append({
-        'Tanggal': tgl_str, 'Deskripsi': np.random.choice(['Makan', 'Gojek', 'Kopi']),
-        'Nominal': np.random.randint(40000, 90000),
-        'Tipe': 'Pengeluaran', 'Kategori': 'Kebutuhan Harian'
+        'tanggal': tgl_str, 
+        'deskripsi': np.random.choice(['Makan Siang', 'Makan Malam', 'Kopi Senja']),
+        'nominal': int(np.random.randint(35000, 80000)),
+        'tipe': 'Pengeluaran', 
+        'kategori': 'Konsumsi'
     })
 
-    # 2. Bensin (3 hari sekali)
-    if tgl.day % 3 == 0:
+    # 2. Bensin/Transportasi (Setiap 2 hari sekali)
+    if tgl.day % 2 == 0:
         data_final.append({
-            'Tanggal': tgl_str, 'Deskripsi': 'Bensin',
-            'Nominal': 50000, 'Tipe': 'Pengeluaran', 'Kategori': 'Transportasi'
+            'tanggal': tgl_str, 
+            'deskripsi': np.random.choice(['Bensin Motor', 'Gojek', 'Grab']),
+            'nominal': int(np.random.randint(20000, 45000)),
+            'tipe': 'Pengeluaran', 
+            'kategori': 'Transportasi'
         })
 
-    # 3. Weekend Seru (Sabtu/Minggu)
+    # 3. Hiburan Weekend (Sabtu & Minggu)
     if tgl.weekday() >= 5:
         data_final.append({
-            'Tanggal': tgl_str, 'Deskripsi': 'Hiburan Weekend',
-            'Nominal': np.random.randint(200000, 500000),
-            'Tipe': 'Pengeluaran', 'Kategori': 'Gaya Hidup'
+            'tanggal': tgl_str, 
+            'deskripsi': 'Nonton / Jajan Weekend',
+            'nominal': int(np.random.randint(150000, 350000)),
+            'tipe': 'Pengeluaran', 
+            'kategori': 'Gaya Hidup'
         })
 
-    # 4. Tagihan Flat (Listrik, Wifi, Kos)
+    # 4. Tagihan Rutin (Setiap Tanggal 5)
     if tgl.day == 5:
         data_final.append({
-            'Tanggal': tgl_str, 'Deskripsi': 'Tagihan Rutin Bulanan',
-            'Nominal': 1500000, 'Tipe': 'Pengeluaran', 'Kategori': 'Tagihan'
+            'tanggal': tgl_str, 
+            'deskripsi': 'Listrik, Wifi, & Kos',
+            'nominal': 1800000,
+            'tipe': 'Pengeluaran', 
+            'kategori': 'Tagihan'
         })
 
-# 2. Simpan ke DataFrame
+# 2. PROSES KE DATAFRAME & ADD ID
 df = pd.DataFrame(data_final)
-df = df.sort_values(by='Tanggal')
-df.to_csv('transaksi_history_1tahun.csv', index=False)
+df = df.sort_values(by='tanggal').reset_index(drop=True)
 
-print(f"BERHASIL! Terbentuk {len(df)} baris data transaksi untuk 1 tahun.")
+# Tambahkan kolom ID di paling depan untuk Primary Key Supabase
+df.insert(0, 'id', range(1, len(df) + 1))
+
+# 3. SIMPAN KE CSV UNTUK SUPABASE
+# Menggunakan quoting=csv.QUOTE_ALL agar aman saat di-import
+df.to_csv('transaksi_history.csv', index=False, quoting=csv.QUOTE_ALL)
+
+print(f"BERHASIL! File 'transaksi_history.csv' dibuat dengan {len(df)} baris.")
+print(df.head())
